@@ -1,0 +1,1546 @@
+document,page,statement,label,role,corruption,original,corrupted,outcome,rules
+3M_2018_10K,57,balance_sheet,Total assets,total,digit,36500,36400,flagged,balance_equation
+3M_2018_10K,57,balance_sheet,Total assets,total,transpose,36500,35600,flagged,balance_equation
+3M_2018_10K,57,balance_sheet,Total assets,total,times1000,36500,36500000,flagged,balance_equation
+3M_2018_10K,57,balance_sheet,Total assets,total,div1000,36500,36.5,flagged,balance_equation;current_assets_within_total
+3M_2018_10K,57,balance_sheet,Total assets,total,sign,36500,-36500,flagged,balance_equation;current_assets_within_total
+3M_2018_10K,57,balance_sheet,Total assets,total,digit,37987,27987,flagged,balance_equation
+3M_2018_10K,57,balance_sheet,Total assets,total,transpose,37987,39787,flagged,balance_equation
+3M_2018_10K,57,balance_sheet,Total assets,total,times1000,37987,37987000,flagged,balance_equation
+3M_2018_10K,57,balance_sheet,Total assets,total,div1000,37987,37.987,flagged,balance_equation;current_assets_within_total
+3M_2018_10K,57,balance_sheet,Total assets,total,sign,37987,-37987,flagged,balance_equation;current_assets_within_total
+3M_2018_10K,57,balance_sheet,Total liabilities,total,digit,26652,26152,flagged,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities,total,transpose,26652,26625,flagged,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities,total,times1000,26652,26652000,flagged,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities,total,div1000,26652,26.652,flagged,current_liabilities_within_total;liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities,total,sign,26652,-26652,flagged,current_liabilities_within_total;liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities,total,digit,26365,26362,flagged,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities,total,transpose,26365,23665,flagged,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities,total,times1000,26365,26365000,flagged,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities,total,div1000,26365,26.365,flagged,current_liabilities_within_total;liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities,total,sign,26365,-26365,flagged,current_liabilities_within_total;liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total equity,total,digit,9848,9818,flagged,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total equity,total,transpose,9848,8948,flagged,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total equity,total,times1000,9848,9848000,flagged,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total equity,total,div1000,9848,9.848,flagged,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total equity,total,sign,9848,-9848,flagged,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total equity,total,digit,11622,11623,absorbed_as_rounding,
+3M_2018_10K,57,balance_sheet,Total equity,total,transpose,11622,11262,flagged,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total equity,total,times1000,11622,11622000,flagged,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total equity,total,div1000,11622,11.622,flagged,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total equity,total,sign,11622,-11622,flagged,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities and equity,total,digit,36500,36800,flagged,balance_equation;liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities and equity,total,transpose,36500,36050,flagged,balance_equation;liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities and equity,total,times1000,36500,36500000,flagged,balance_equation;liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities and equity,total,div1000,36500,36.5,flagged,balance_equation;liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities and equity,total,sign,36500,-36500,flagged,balance_equation;liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities and equity,total,digit,37987,37984,flagged,balance_equation;liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities and equity,total,transpose,37987,37897,flagged,balance_equation;liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities and equity,total,times1000,37987,37987000,flagged,balance_equation;liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities and equity,total,div1000,37987,37.987,flagged,balance_equation;liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities and equity,total,sign,37987,-37987,flagged,balance_equation;liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total assets,total,digit,46455,46453,flagged,balance_equation
+3M_2022_10K,49,balance_sheet,Total assets,total,transpose,46455,44655,flagged,balance_equation
+3M_2022_10K,49,balance_sheet,Total assets,total,times1000,46455,46455000,flagged,balance_equation
+3M_2022_10K,49,balance_sheet,Total assets,total,div1000,46455,46.455,flagged,balance_equation;current_assets_within_total
+3M_2022_10K,49,balance_sheet,Total assets,total,sign,46455,-46455,flagged,balance_equation;current_assets_within_total
+3M_2022_10K,49,balance_sheet,Total assets,total,digit,47072,47078,flagged,balance_equation
+3M_2022_10K,49,balance_sheet,Total assets,total,transpose,47072,47027,flagged,balance_equation
+3M_2022_10K,49,balance_sheet,Total assets,total,times1000,47072,47072000,flagged,balance_equation
+3M_2022_10K,49,balance_sheet,Total assets,total,div1000,47072,47.072,flagged,balance_equation;current_assets_within_total
+3M_2022_10K,49,balance_sheet,Total assets,total,sign,47072,-47072,flagged,balance_equation;current_assets_within_total
+3M_2022_10K,49,balance_sheet,Total liabilities,total,digit,31685,31625,flagged,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities,total,transpose,31685,13685,flagged,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities,total,times1000,31685,31685000,flagged,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities,total,div1000,31685,31.685,flagged,current_liabilities_within_total;liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities,total,sign,31685,-31685,flagged,current_liabilities_within_total;liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities,total,digit,31955,38955,flagged,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities,total,transpose,31955,39155,flagged,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities,total,times1000,31955,31955000,flagged,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities,total,div1000,31955,31.955,flagged,current_liabilities_within_total;liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities,total,sign,31955,-31955,flagged,current_liabilities_within_total;liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total equity,total,digit,14770,14771,absorbed_as_rounding,
+3M_2022_10K,49,balance_sheet,Total equity,total,transpose,14770,14707,flagged,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total equity,total,times1000,14770,14770000,flagged,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total equity,total,div1000,14770,14.77,flagged,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total equity,total,sign,14770,-14770,flagged,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total equity,total,digit,15117,17117,flagged,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total equity,total,transpose,15117,15171,flagged,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total equity,total,times1000,15117,15117000,flagged,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total equity,total,div1000,15117,15.117,flagged,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total equity,total,sign,15117,-15117,flagged,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities and equity,total,digit,46455,46465,flagged,balance_equation;liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities and equity,total,transpose,46455,44655,flagged,balance_equation;liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities and equity,total,times1000,46455,46455000,flagged,balance_equation;liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities and equity,total,div1000,46455,46.455,flagged,balance_equation;liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities and equity,total,sign,46455,-46455,flagged,balance_equation;liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities and equity,total,digit,47072,47078,flagged,balance_equation;liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities and equity,total,transpose,47072,47702,flagged,balance_equation;liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities and equity,total,times1000,47072,47072000,flagged,balance_equation;liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities and equity,total,div1000,47072,47.072,flagged,balance_equation;liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities and equity,total,sign,47072,-47072,flagged,balance_equation;liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total assets,total,digit,48880,98880,flagged,balance_equation
+3M_2023Q2_10Q,4,balance_sheet,Total assets,total,transpose,48880,84880,flagged,balance_equation
+3M_2023Q2_10Q,4,balance_sheet,Total assets,total,times1000,48880,48880000,flagged,balance_equation
+3M_2023Q2_10Q,4,balance_sheet,Total assets,total,div1000,48880,48.88,flagged,balance_equation;current_assets_within_total
+3M_2023Q2_10Q,4,balance_sheet,Total assets,total,sign,48880,-48880,flagged,balance_equation;current_assets_within_total
+3M_2023Q2_10Q,4,balance_sheet,Total assets,total,digit,46455,66455,flagged,balance_equation
+3M_2023Q2_10Q,4,balance_sheet,Total assets,total,transpose,46455,46545,flagged,balance_equation
+3M_2023Q2_10Q,4,balance_sheet,Total assets,total,times1000,46455,46455000,flagged,balance_equation
+3M_2023Q2_10Q,4,balance_sheet,Total assets,total,div1000,46455,46.455,flagged,balance_equation;current_assets_within_total
+3M_2023Q2_10Q,4,balance_sheet,Total assets,total,sign,46455,-46455,flagged,balance_equation;current_assets_within_total
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities,total,digit,41023,21023,flagged,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities,total,transpose,41023,41203,flagged,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities,total,times1000,41023,41023000,flagged,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities,total,div1000,41023,41.023,flagged,current_liabilities_within_total;liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities,total,sign,41023,-41023,flagged,current_liabilities_within_total;liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities,total,digit,31685,31680,flagged,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities,total,transpose,31685,13685,flagged,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities,total,times1000,31685,31685000,flagged,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities,total,div1000,31685,31.685,flagged,current_liabilities_within_total;liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities,total,sign,31685,-31685,flagged,current_liabilities_within_total;liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total equity,total,digit,7857,3857,flagged,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total equity,total,transpose,7857,7587,flagged,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total equity,total,times1000,7857,7857000,flagged,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total equity,total,div1000,7857,7.857,flagged,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total equity,total,sign,7857,-7857,flagged,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total equity,total,digit,14770,14710,flagged,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total equity,total,transpose,14770,17470,flagged,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total equity,total,times1000,14770,14770000,flagged,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total equity,total,div1000,14770,14.77,flagged,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total equity,total,sign,14770,-14770,flagged,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities and equity,total,digit,48880,48180,flagged,balance_equation;liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities and equity,total,transpose,48880,48808,flagged,balance_equation;liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities and equity,total,times1000,48880,48880000,flagged,balance_equation;liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities and equity,total,div1000,48880,48.88,flagged,balance_equation;liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities and equity,total,sign,48880,-48880,flagged,balance_equation;liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities and equity,total,digit,46455,46475,flagged,balance_equation;liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities and equity,total,transpose,46455,64455,flagged,balance_equation;liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities and equity,total,times1000,46455,46455000,flagged,balance_equation;liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities and equity,total,div1000,46455,46.455,flagged,balance_equation;liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities and equity,total,sign,46455,-46455,flagged,balance_equation;liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total assets,total,digit,19845,19835,flagged,balance_equation
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total assets,total,transpose,19845,91845,flagged,balance_equation
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total assets,total,times1000,19845,19845000,flagged,balance_equation
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total assets,total,div1000,19845,19.845,flagged,balance_equation;current_assets_within_total
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total assets,total,sign,19845,-19845,flagged,balance_equation;current_assets_within_total
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total assets,total,digit,17890,17090,flagged,balance_equation
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total assets,total,transpose,17890,18790,flagged,balance_equation
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total assets,total,times1000,17890,17890000,flagged,balance_equation
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total assets,total,div1000,17890,17.89,flagged,balance_equation;current_assets_within_total
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total assets,total,sign,17890,-17890,flagged,balance_equation;current_assets_within_total
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities,total,digit,7040,7010,flagged,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities,total,transpose,7040,7004,flagged,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities,total,times1000,7040,7040000,flagged,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities,total,div1000,7040,7.04,flagged,current_liabilities_within_total;liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities,total,sign,7040,-7040,flagged,current_liabilities_within_total;liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities,total,digit,6498,6497,absorbed_as_rounding,
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities,total,transpose,6498,4698,flagged,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities,total,times1000,6498,6498000,flagged,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities,total,div1000,6498,6.498,flagged,current_liabilities_within_total;liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities,total,sign,6498,-6498,flagged,current_liabilities_within_total;liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total shareholders? equity,total,digit,12805,13805,flagged,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total shareholders? equity,total,transpose,12805,18205,flagged,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total shareholders? equity,total,times1000,12805,12805000,flagged,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total shareholders? equity,total,div1000,12805,12.805,flagged,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total shareholders? equity,total,sign,12805,-12805,flagged,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total shareholders? equity,total,digit,11392,11394,flagged,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total shareholders? equity,total,transpose,11392,11329,flagged,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total shareholders? equity,total,times1000,11392,11392000,flagged,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total shareholders? equity,total,div1000,11392,11.392,flagged,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total shareholders? equity,total,sign,11392,-11392,flagged,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities and shareholders? equity,total,digit,19845,19840,flagged,balance_equation;liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities and shareholders? equity,total,transpose,19845,18945,flagged,balance_equation;liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities and shareholders? equity,total,times1000,19845,19845000,flagged,balance_equation;liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities and shareholders? equity,total,div1000,19845,19.845,flagged,balance_equation;liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities and shareholders? equity,total,sign,19845,-19845,flagged,balance_equation;liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities and shareholders? equity,total,digit,17890,15890,flagged,balance_equation;liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities and shareholders? equity,total,transpose,17890,17809,flagged,balance_equation;liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities and shareholders? equity,total,times1000,17890,17890000,flagged,balance_equation;liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities and shareholders? equity,total,div1000,17890,17.89,flagged,balance_equation;liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities and shareholders? equity,total,sign,17890,-17890,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total assets......................................................................................................................................,total,digit,11726472,16726472,flagged,balance_equation
+ADOBE_2015_10K,58,balance_sheet,Total assets......................................................................................................................................,total,transpose,11726472,11726742,flagged,balance_equation
+ADOBE_2015_10K,58,balance_sheet,Total assets......................................................................................................................................,total,times1000,11726472,11726472000,flagged,balance_equation
+ADOBE_2015_10K,58,balance_sheet,Total assets......................................................................................................................................,total,div1000,11726472,11726.472,flagged,balance_equation;current_assets_within_total
+ADOBE_2015_10K,58,balance_sheet,Total assets......................................................................................................................................,total,sign,11726472,-11726472,flagged,balance_equation;current_assets_within_total
+ADOBE_2015_10K,58,balance_sheet,Total assets......................................................................................................................................,total,digit,10785829,10785929,flagged,balance_equation
+ADOBE_2015_10K,58,balance_sheet,Total assets......................................................................................................................................,total,transpose,10785829,10785892,flagged,balance_equation
+ADOBE_2015_10K,58,balance_sheet,Total assets......................................................................................................................................,total,times1000,10785829,10785829000,flagged,balance_equation
+ADOBE_2015_10K,58,balance_sheet,Total assets......................................................................................................................................,total,div1000,10785829,10785.829,flagged,balance_equation;current_assets_within_total
+ADOBE_2015_10K,58,balance_sheet,Total assets......................................................................................................................................,total,sign,10785829,-10785829,flagged,balance_equation;current_assets_within_total
+ADOBE_2015_10K,58,balance_sheet,Total liabilities................................................................................................................................,total,digit,4724892,4724891,absorbed_as_rounding,
+ADOBE_2015_10K,58,balance_sheet,Total liabilities................................................................................................................................,total,transpose,4724892,4742892,flagged,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities................................................................................................................................,total,times1000,4724892,4724892000,flagged,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities................................................................................................................................,total,div1000,4724892,4724.892,flagged,current_liabilities_within_total;liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities................................................................................................................................,total,sign,4724892,-4724892,flagged,current_liabilities_within_total;liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities................................................................................................................................,total,digit,4009924,4309924,flagged,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities................................................................................................................................,total,transpose,4009924,4090924,flagged,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities................................................................................................................................,total,times1000,4009924,4009924000,flagged,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities................................................................................................................................,total,div1000,4009924,4009.924,flagged,current_liabilities_within_total;liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities................................................................................................................................,total,sign,4009924,-4009924,flagged,current_liabilities_within_total;liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total stockholders? equity...............................................................................................................,total,digit,7001580,7001588,flagged,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total stockholders? equity...............................................................................................................,total,transpose,7001580,701580,flagged,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total stockholders? equity...............................................................................................................,total,times1000,7001580,7001580000,flagged,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total stockholders? equity...............................................................................................................,total,div1000,7001580,7001.58,flagged,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total stockholders? equity...............................................................................................................,total,sign,7001580,-7001580,flagged,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total stockholders? equity...............................................................................................................,total,digit,6775905,6575905,flagged,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total stockholders? equity...............................................................................................................,total,transpose,6775905,7675905,flagged,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total stockholders? equity...............................................................................................................,total,times1000,6775905,6775905000,flagged,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total stockholders? equity...............................................................................................................,total,div1000,6775905,6775.905,flagged,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total stockholders? equity...............................................................................................................,total,sign,6775905,-6775905,flagged,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities and stockholders? equity........................................................................................,total,digit,11726472,21726472,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities and stockholders? equity........................................................................................,total,transpose,11726472,11276472,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities and stockholders? equity........................................................................................,total,times1000,11726472,11726472000,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities and stockholders? equity........................................................................................,total,div1000,11726472,11726.472,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities and stockholders? equity........................................................................................,total,sign,11726472,-11726472,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities and stockholders? equity........................................................................................,total,digit,10785829,50785829,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities and stockholders? equity........................................................................................,total,transpose,10785829,17085829,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities and stockholders? equity........................................................................................,total,times1000,10785829,10785829000,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities and stockholders? equity........................................................................................,total,div1000,10785829,10785.829,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities and stockholders? equity........................................................................................,total,sign,10785829,-10785829,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total assets,total,digit,14535556,24535556,flagged,balance_equation
+ADOBE_2017_10K,56,balance_sheet,Total assets,total,transpose,14535556,14535565,flagged,balance_equation
+ADOBE_2017_10K,56,balance_sheet,Total assets,total,times1000,14535556,14535556000,flagged,balance_equation
+ADOBE_2017_10K,56,balance_sheet,Total assets,total,div1000,14535556,14535.556,flagged,balance_equation;current_assets_within_total
+ADOBE_2017_10K,56,balance_sheet,Total assets,total,sign,14535556,-14535556,flagged,balance_equation;current_assets_within_total
+ADOBE_2017_10K,56,balance_sheet,Total assets,total,digit,12697246,12897246,flagged,balance_equation
+ADOBE_2017_10K,56,balance_sheet,Total assets,total,transpose,12697246,21697246,flagged,balance_equation
+ADOBE_2017_10K,56,balance_sheet,Total assets,total,times1000,12697246,12697246000,flagged,balance_equation
+ADOBE_2017_10K,56,balance_sheet,Total assets,total,div1000,12697246,12697.246,flagged,balance_equation;current_assets_within_total
+ADOBE_2017_10K,56,balance_sheet,Total assets,total,sign,12697246,-12697246,flagged,balance_equation;current_assets_within_total
+ADOBE_2017_10K,56,balance_sheet,Total liabilities,total,digit,6075687,6075487,flagged,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities,total,transpose,6075687,6075678,flagged,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities,total,times1000,6075687,6075687000,flagged,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities,total,div1000,6075687,6075.687,flagged,current_liabilities_within_total;liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities,total,sign,6075687,-6075687,flagged,current_liabilities_within_total;liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities,total,digit,5272411,5276411,flagged,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities,total,transpose,5272411,2572411,flagged,current_liabilities_within_total;liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities,total,times1000,5272411,5272411000,flagged,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities,total,div1000,5272411,5272.411,flagged,current_liabilities_within_total;liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities,total,sign,5272411,-5272411,flagged,current_liabilities_within_total;liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total stockholders? equity,total,digit,8459869,8459861,flagged,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total stockholders? equity,total,transpose,8459869,8495869,flagged,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total stockholders? equity,total,times1000,8459869,8459869000,flagged,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total stockholders? equity,total,div1000,8459869,8459.869,flagged,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total stockholders? equity,total,sign,8459869,-8459869,flagged,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total stockholders? equity,total,digit,7424835,7524835,flagged,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total stockholders? equity,total,transpose,7424835,7244835,flagged,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total stockholders? equity,total,times1000,7424835,7424835000,flagged,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total stockholders? equity,total,div1000,7424835,7424.835,flagged,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total stockholders? equity,total,sign,7424835,-7424835,flagged,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities and stockholders? equity,total,digit,14535556,14535576,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities and stockholders? equity,total,transpose,14535556,14553556,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities and stockholders? equity,total,times1000,14535556,14535556000,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities and stockholders? equity,total,div1000,14535556,14535.556,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities and stockholders? equity,total,sign,14535556,-14535556,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities and stockholders? equity,total,digit,12697246,12697546,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities and stockholders? equity,total,transpose,12697246,12697264,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities and stockholders? equity,total,times1000,12697246,12697246000,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities and stockholders? equity,total,div1000,12697246,12697.246,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities and stockholders? equity,total,sign,12697246,-12697246,flagged,balance_equation;liabilities_plus_equity
+AES_2022_10K,129,balance_sheet,TOTAL ASSETS,total,digit,38363,38353,flagged,balance_equation
+AES_2022_10K,129,balance_sheet,TOTAL ASSETS,total,transpose,38363,83363,flagged,balance_equation
+AES_2022_10K,129,balance_sheet,TOTAL ASSETS,total,times1000,38363,38363000,flagged,balance_equation
+AES_2022_10K,129,balance_sheet,TOTAL ASSETS,total,div1000,38363,38.363,flagged,balance_equation;current_assets_within_total
+AES_2022_10K,129,balance_sheet,TOTAL ASSETS,total,sign,38363,-38363,flagged,balance_equation;current_assets_within_total
+AES_2022_10K,129,balance_sheet,TOTAL ASSETS,total,digit,32963,37963,flagged,balance_equation
+AES_2022_10K,129,balance_sheet,TOTAL ASSETS,total,transpose,32963,23963,flagged,balance_equation
+AES_2022_10K,129,balance_sheet,TOTAL ASSETS,total,times1000,32963,32963000,flagged,balance_equation
+AES_2022_10K,129,balance_sheet,TOTAL ASSETS,total,div1000,32963,32.963,flagged,balance_equation;current_assets_within_total
+AES_2022_10K,129,balance_sheet,TOTAL ASSETS,total,sign,32963,-32963,flagged,balance_equation;current_assets_within_total
+AES_2022_10K,129,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,digit,38363,98363,flagged,balance_equation
+AES_2022_10K,129,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,transpose,38363,38336,flagged,balance_equation
+AES_2022_10K,129,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,times1000,38363,38363000,flagged,balance_equation
+AES_2022_10K,129,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,div1000,38363,38.363,flagged,balance_equation
+AES_2022_10K,129,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,sign,38363,-38363,flagged,balance_equation
+AES_2022_10K,129,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,digit,32963,32967,flagged,balance_equation
+AES_2022_10K,129,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,transpose,32963,32693,flagged,balance_equation
+AES_2022_10K,129,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,times1000,32963,32963000,flagged,balance_equation
+AES_2022_10K,129,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,div1000,32963,32.963,flagged,balance_equation
+AES_2022_10K,129,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,sign,32963,-32963,flagged,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total assets,total,digit,83402,93402,flagged,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total assets,total,transpose,83402,83420,flagged,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total assets,total,times1000,83402,83402000,flagged,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total assets,total,div1000,83402,83.402,flagged,balance_equation;current_assets_within_total
+AMAZON_2017_10K,39,balance_sheet,Total assets,total,sign,83402,-83402,flagged,balance_equation;current_assets_within_total
+AMAZON_2017_10K,39,balance_sheet,Total assets,total,digit,131310,161310,flagged,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total assets,total,transpose,131310,311310,flagged,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total assets,total,times1000,131310,131310000,flagged,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total assets,total,div1000,131310,131.31,flagged,balance_equation;current_assets_within_total
+AMAZON_2017_10K,39,balance_sheet,Total assets,total,sign,131310,-131310,flagged,balance_equation;current_assets_within_total
+AMAZON_2017_10K,39,balance_sheet,Total liabilities and stockholders? equity,total,digit,83402,83408,flagged,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total liabilities and stockholders? equity,total,transpose,83402,83042,flagged,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total liabilities and stockholders? equity,total,times1000,83402,83402000,flagged,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total liabilities and stockholders? equity,total,div1000,83402,83.402,flagged,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total liabilities and stockholders? equity,total,sign,83402,-83402,flagged,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total liabilities and stockholders? equity,total,digit,131310,631310,flagged,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total liabilities and stockholders? equity,total,transpose,131310,311310,flagged,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total liabilities and stockholders? equity,total,times1000,131310,131310000,flagged,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total liabilities and stockholders? equity,total,div1000,131310,131.31,flagged,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total liabilities and stockholders? equity,total,sign,131310,-131310,flagged,balance_equation
+AMCOR_2020_10K,49,balance_sheet,Total assets,total,digit,16442.1,16042.1,flagged,balance_equation
+AMCOR_2020_10K,49,balance_sheet,Total assets,total,transpose,16442.1,61442.1,flagged,balance_equation
+AMCOR_2020_10K,49,balance_sheet,Total assets,total,times1000,16442.1,16442100.0,flagged,balance_equation
+AMCOR_2020_10K,49,balance_sheet,Total assets,total,div1000,16442.1,16.4421,flagged,balance_equation;current_assets_within_total
+AMCOR_2020_10K,49,balance_sheet,Total assets,total,sign,16442.1,-16442.1,flagged,balance_equation;current_assets_within_total
+AMCOR_2020_10K,49,balance_sheet,Total assets,total,digit,17165.0,17765.0,flagged,balance_equation
+AMCOR_2020_10K,49,balance_sheet,Total assets,total,transpose,17165.0,17156.0,flagged,balance_equation
+AMCOR_2020_10K,49,balance_sheet,Total assets,total,times1000,17165.0,17165000.0,flagged,balance_equation
+AMCOR_2020_10K,49,balance_sheet,Total assets,total,div1000,17165.0,17.165,flagged,balance_equation;current_assets_within_total
+AMCOR_2020_10K,49,balance_sheet,Total assets,total,sign,17165.0,-17165.0,flagged,balance_equation;current_assets_within_total
+AMCOR_2020_10K,49,balance_sheet,Total liabilities,total,digit,11755.0,91755.0,flagged,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities,total,transpose,11755.0,11750.5,flagged,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities,total,times1000,11755.0,11755000.0,flagged,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities,total,div1000,11755.0,11.755,flagged,current_liabilities_within_total;liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities,total,sign,11755.0,-11755.0,flagged,current_liabilities_within_total;liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities,total,digit,11490.3,11490.4,absorbed_as_rounding,
+AMCOR_2020_10K,49,balance_sheet,Total liabilities,total,transpose,11490.3,14190.3,flagged,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities,total,times1000,11490.3,11490300.0,flagged,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities,total,div1000,11490.3,11.4903,flagged,current_liabilities_within_total;liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities,total,sign,11490.3,-11490.3,flagged,current_liabilities_within_total;liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total shareholders' equity,total,digit,4687.1,2687.1,flagged,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total shareholders' equity,total,transpose,4687.1,4867.1,flagged,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total shareholders' equity,total,times1000,4687.1,4687100.0,flagged,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total shareholders' equity,total,div1000,4687.1,4.6871,flagged,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total shareholders' equity,total,sign,4687.1,-4687.1,flagged,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total shareholders' equity,total,digit,5674.7,5174.7,flagged,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total shareholders' equity,total,transpose,5674.7,5677.4,flagged,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total shareholders' equity,total,times1000,5674.7,5674700.0,flagged,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total shareholders' equity,total,div1000,5674.7,5.6747,flagged,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total shareholders' equity,total,sign,5674.7,-5674.7,flagged,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities and shareholders' equity,total,digit,16442.1,16432.1,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities and shareholders' equity,total,transpose,16442.1,16441.2,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities and shareholders' equity,total,times1000,16442.1,16442100.0,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities and shareholders' equity,total,div1000,16442.1,16.4421,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities and shareholders' equity,total,sign,16442.1,-16442.1,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities and shareholders' equity,total,digit,17165.0,77165.0,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities and shareholders' equity,total,transpose,17165.0,11765.0,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities and shareholders' equity,total,times1000,17165.0,17165000.0,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities and shareholders' equity,total,div1000,17165.0,17.165,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities and shareholders' equity,total,sign,17165.0,-17165.0,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total assets,total,digit,17003,17063,flagged,balance_equation
+AMCOR_2023_10K,51,balance_sheet,Total assets,total,transpose,17003,10703,flagged,balance_equation
+AMCOR_2023_10K,51,balance_sheet,Total assets,total,times1000,17003,17003000,flagged,balance_equation
+AMCOR_2023_10K,51,balance_sheet,Total assets,total,div1000,17003,17.003,flagged,balance_equation;current_assets_within_total
+AMCOR_2023_10K,51,balance_sheet,Total assets,total,sign,17003,-17003,flagged,balance_equation;current_assets_within_total
+AMCOR_2023_10K,51,balance_sheet,Total assets,total,digit,17426,17626,flagged,balance_equation
+AMCOR_2023_10K,51,balance_sheet,Total assets,total,transpose,17426,17462,flagged,balance_equation
+AMCOR_2023_10K,51,balance_sheet,Total assets,total,times1000,17426,17426000,flagged,balance_equation
+AMCOR_2023_10K,51,balance_sheet,Total assets,total,div1000,17426,17.426,flagged,balance_equation;current_assets_within_total
+AMCOR_2023_10K,51,balance_sheet,Total assets,total,sign,17426,-17426,flagged,balance_equation;current_assets_within_total
+AMCOR_2023_10K,51,balance_sheet,Total liabilities,total,digit,12913,12914,absorbed_as_rounding,
+AMCOR_2023_10K,51,balance_sheet,Total liabilities,total,transpose,12913,12193,flagged,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities,total,times1000,12913,12913000,flagged,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities,total,div1000,12913,12.913,flagged,current_liabilities_within_total;liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities,total,sign,12913,-12913,flagged,current_liabilities_within_total;liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities,total,digit,13285,13295,flagged,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities,total,transpose,13285,13825,flagged,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities,total,times1000,13285,13285000,flagged,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities,total,div1000,13285,13.285,flagged,current_liabilities_within_total;liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities,total,sign,13285,-13285,flagged,current_liabilities_within_total;liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total shareholders' equity,total,digit,4090,4097,flagged,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total shareholders' equity,total,transpose,4090,490,flagged,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total shareholders' equity,total,times1000,4090,4090000,flagged,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total shareholders' equity,total,div1000,4090,4.09,flagged,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total shareholders' equity,total,sign,4090,-4090,flagged,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total shareholders' equity,total,digit,4141,4041,flagged,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total shareholders' equity,total,transpose,4141,4411,flagged,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total shareholders' equity,total,times1000,4141,4141000,flagged,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total shareholders' equity,total,div1000,4141,4.141,flagged,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total shareholders' equity,total,sign,4141,-4141,flagged,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities and shareholders' equity,total,digit,17003,17001,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities and shareholders' equity,total,transpose,17003,10703,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities and shareholders' equity,total,times1000,17003,17003000,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities and shareholders' equity,total,div1000,17003,17.003,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities and shareholders' equity,total,sign,17003,-17003,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities and shareholders' equity,total,digit,17426,57426,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities and shareholders' equity,total,transpose,17426,71426,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities and shareholders' equity,total,times1000,17426,17426000,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities and shareholders' equity,total,div1000,17426,17.426,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities and shareholders' equity,total,sign,17426,-17426,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2023_10K,49,income_statement,Net sales,component,digit,14694,64694,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Net sales,component,transpose,14694,14649,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Net sales,component,times1000,14694,14694000,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Net sales,component,div1000,14694,14.694,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Net sales,component,sign,14694,-14694,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Net sales,component,digit,14544,14548,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Net sales,component,transpose,14544,14454,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Net sales,component,times1000,14544,14544000,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Net sales,component,div1000,14544,14.544,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Net sales,component,sign,14544,-14544,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Net sales,component,digit,12861,12863,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Net sales,component,transpose,12861,21861,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Net sales,component,times1000,12861,12861000,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Net sales,component,div1000,12861,12.861,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Net sales,component,sign,12861,-12861,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Cost of sales,component,digit,-11969,-11965,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Cost of sales,component,transpose,-11969,-11699,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Cost of sales,component,times1000,-11969,-11969000,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Cost of sales,component,div1000,-11969,-11.969,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Cost of sales,component,sign,-11969,11969,passed_unnoticed,
+AMCOR_2023_10K,49,income_statement,Cost of sales,component,digit,-11724,-11424,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Cost of sales,component,transpose,-11724,-11742,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Cost of sales,component,times1000,-11724,-11724000,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Cost of sales,component,div1000,-11724,-11.724,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Cost of sales,component,sign,-11724,11724,passed_unnoticed,
+AMCOR_2023_10K,49,income_statement,Cost of sales,component,digit,-10129,-10149,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Cost of sales,component,transpose,-10129,-11029,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Cost of sales,component,times1000,-10129,-10129000,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Cost of sales,component,div1000,-10129,-10.129,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Cost of sales,component,sign,-10129,10129,passed_unnoticed,
+AMCOR_2023_10K,49,income_statement,Gross profit,total,digit,2725,1725,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Gross profit,total,transpose,2725,7225,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Gross profit,total,times1000,2725,2725000,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Gross profit,total,div1000,2725,2.725,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Gross profit,total,sign,2725,-2725,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Gross profit,total,digit,2820,7820,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Gross profit,total,transpose,2820,2802,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Gross profit,total,times1000,2820,2820000,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Gross profit,total,div1000,2820,2.82,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Gross profit,total,sign,2820,-2820,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Gross profit,total,digit,2732,2332,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Gross profit,total,transpose,2732,2372,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Gross profit,total,times1000,2732,2732000,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Gross profit,total,div1000,2732,2.732,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Gross profit,total,sign,2732,-2732,flagged,gross_profit
+AMD_2022_10K,55,balance_sheet,Total assets,total,digit,67580,67500,flagged,balance_equation
+AMD_2022_10K,55,balance_sheet,Total assets,total,transpose,67580,76580,flagged,balance_equation
+AMD_2022_10K,55,balance_sheet,Total assets,total,times1000,67580,67580000,flagged,balance_equation
+AMD_2022_10K,55,balance_sheet,Total assets,total,div1000,67580,67.58,flagged,balance_equation;current_assets_within_total
+AMD_2022_10K,55,balance_sheet,Total assets,total,sign,67580,-67580,flagged,balance_equation;current_assets_within_total
+AMD_2022_10K,55,balance_sheet,Total assets,total,digit,12419,12219,flagged,balance_equation
+AMD_2022_10K,55,balance_sheet,Total assets,total,transpose,12419,12491,flagged,balance_equation
+AMD_2022_10K,55,balance_sheet,Total assets,total,times1000,12419,12419000,flagged,balance_equation
+AMD_2022_10K,55,balance_sheet,Total assets,total,div1000,12419,12.419,flagged,balance_equation;current_assets_within_total
+AMD_2022_10K,55,balance_sheet,Total assets,total,sign,12419,-12419,flagged,balance_equation;current_assets_within_total
+AMD_2022_10K,55,balance_sheet,Total liabilities and stockholders? equity,total,digit,67580,67080,flagged,balance_equation
+AMD_2022_10K,55,balance_sheet,Total liabilities and stockholders? equity,total,transpose,67580,67508,flagged,balance_equation
+AMD_2022_10K,55,balance_sheet,Total liabilities and stockholders? equity,total,times1000,67580,67580000,flagged,balance_equation
+AMD_2022_10K,55,balance_sheet,Total liabilities and stockholders? equity,total,div1000,67580,67.58,flagged,balance_equation
+AMD_2022_10K,55,balance_sheet,Total liabilities and stockholders? equity,total,sign,67580,-67580,flagged,balance_equation
+AMD_2022_10K,55,balance_sheet,Total liabilities and stockholders? equity,total,digit,12419,52419,flagged,balance_equation
+AMD_2022_10K,55,balance_sheet,Total liabilities and stockholders? equity,total,transpose,12419,12491,flagged,balance_equation
+AMD_2022_10K,55,balance_sheet,Total liabilities and stockholders? equity,total,times1000,12419,12419000,flagged,balance_equation
+AMD_2022_10K,55,balance_sheet,Total liabilities and stockholders? equity,total,div1000,12419,12.419,flagged,balance_equation
+AMD_2022_10K,55,balance_sheet,Total liabilities and stockholders? equity,total,sign,12419,-12419,flagged,balance_equation
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total assets,total,digit,228354,228353,flagged,balance_equation
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total assets,total,transpose,228354,228345,flagged,balance_equation
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total assets,total,times1000,228354,228354000,flagged,balance_equation
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total assets,total,div1000,228354,228.354,flagged,balance_equation
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total assets,total,sign,228354,-228354,flagged,balance_equation
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total assets,total,digit,188548,788548,flagged,balance_equation
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total assets,total,transpose,188548,185848,flagged,balance_equation
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total assets,total,times1000,188548,188548000,flagged,balance_equation
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total assets,total,div1000,188548,188.548,flagged,balance_equation
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total assets,total,sign,188548,-188548,flagged,balance_equation
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities,total,digit,203643,203649,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities,total,transpose,203643,203463,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities,total,times1000,203643,203643000,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities,total,div1000,203643,203.643,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities,total,sign,203643,-203643,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities,total,digit,166371,466371,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities,total,transpose,166371,166731,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities,total,times1000,166371,166371000,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities,total,div1000,166371,166.371,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities,total,sign,166371,-166371,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total shareholders? equity,total,digit,24711,94711,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total shareholders? equity,total,transpose,24711,27411,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total shareholders? equity,total,times1000,24711,24711000,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total shareholders? equity,total,div1000,24711,24.711,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total shareholders? equity,total,sign,24711,-24711,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total shareholders? equity,total,digit,22177,52177,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total shareholders? equity,total,transpose,22177,22717,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total shareholders? equity,total,times1000,22177,22177000,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total shareholders? equity,total,div1000,22177,22.177,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total shareholders? equity,total,sign,22177,-22177,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities and shareholders? equity,total,digit,228354,628354,flagged,balance_equation;liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities and shareholders? equity,total,transpose,228354,228345,flagged,balance_equation;liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities and shareholders? equity,total,times1000,228354,228354000,flagged,balance_equation;liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities and shareholders? equity,total,div1000,228354,228.354,flagged,balance_equation;liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities and shareholders? equity,total,sign,228354,-228354,flagged,balance_equation;liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities and shareholders? equity,total,digit,188548,188540,flagged,balance_equation;liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities and shareholders? equity,total,transpose,188548,818548,flagged,balance_equation;liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities and shareholders? equity,total,times1000,188548,188548000,flagged,balance_equation;liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities and shareholders? equity,total,div1000,188548,188.548,flagged,balance_equation;liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities and shareholders? equity,total,sign,188548,-188548,flagged,balance_equation;liabilities_plus_equity
+BESTBUY_2017_10K,55,income_statement,Revenue,component,digit,39403,35403,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Revenue,component,transpose,39403,93403,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Revenue,component,times1000,39403,39403000,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Revenue,component,div1000,39403,39.403,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Revenue,component,sign,39403,-39403,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Revenue,component,digit,39528,39538,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Revenue,component,transpose,39528,39258,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Revenue,component,times1000,39528,39528000,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Revenue,component,div1000,39528,39.528,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Revenue,component,sign,39528,-39528,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Revenue,component,digit,40339,40939,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Revenue,component,transpose,40339,43039,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Revenue,component,times1000,40339,40339000,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Revenue,component,div1000,40339,40.339,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Revenue,component,sign,40339,-40339,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Cost of goods sold,component,digit,29963,49963,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Cost of goods sold,component,transpose,29963,92963,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Cost of goods sold,component,times1000,29963,29963000,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Cost of goods sold,component,div1000,29963,29.963,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Cost of goods sold,component,sign,29963,-29963,passed_unnoticed,
+BESTBUY_2017_10K,55,income_statement,Cost of goods sold,component,digit,30334,30336,absorbed_as_rounding,
+BESTBUY_2017_10K,55,income_statement,Cost of goods sold,component,transpose,30334,30343,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Cost of goods sold,component,times1000,30334,30334000,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Cost of goods sold,component,div1000,30334,30.334,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Cost of goods sold,component,sign,30334,-30334,passed_unnoticed,
+BESTBUY_2017_10K,55,income_statement,Cost of goods sold,component,digit,31292,61292,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Cost of goods sold,component,transpose,31292,31922,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Cost of goods sold,component,times1000,31292,31292000,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Cost of goods sold,component,div1000,31292,31.292,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Cost of goods sold,component,sign,31292,-31292,passed_unnoticed,
+BESTBUY_2017_10K,55,income_statement,Restructuring charges ? cost of goods sold,component,digit,3,1,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Restructuring charges ? cost of goods sold,component,transpose,3,,not_applicable,
+BESTBUY_2017_10K,55,income_statement,Restructuring charges ? cost of goods sold,component,times1000,3,3000,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Restructuring charges ? cost of goods sold,component,div1000,3,0.003,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Restructuring charges ? cost of goods sold,component,sign,3,-3,passed_unnoticed,
+BESTBUY_2017_10K,55,income_statement,Gross profit,total,digit,9440,9140,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Gross profit,total,transpose,9440,9404,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Gross profit,total,times1000,9440,9440000,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Gross profit,total,div1000,9440,9.44,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Gross profit,total,sign,9440,-9440,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Gross profit,total,digit,9191,5191,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Gross profit,total,transpose,9191,9119,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Gross profit,total,times1000,9191,9191000,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Gross profit,total,div1000,9191,9.191,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Gross profit,total,sign,9191,-9191,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Gross profit,total,digit,9047,9077,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Gross profit,total,transpose,9047,947,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Gross profit,total,times1000,9047,9047000,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Gross profit,total,div1000,9047,9.047,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Gross profit,total,sign,9047,-9047,flagged,gross_profit
+BESTBUY_2019_10K,51,balance_sheet,Total assets,total,digit,12901,12911,flagged,balance_equation
+BESTBUY_2019_10K,51,balance_sheet,Total assets,total,transpose,12901,12910,flagged,balance_equation
+BESTBUY_2019_10K,51,balance_sheet,Total assets,total,times1000,12901,12901000,flagged,balance_equation
+BESTBUY_2019_10K,51,balance_sheet,Total assets,total,div1000,12901,12.901,flagged,balance_equation;current_assets_within_total
+BESTBUY_2019_10K,51,balance_sheet,Total assets,total,sign,12901,-12901,flagged,balance_equation;current_assets_within_total
+BESTBUY_2019_10K,51,balance_sheet,Total assets,total,digit,13049,13039,flagged,balance_equation
+BESTBUY_2019_10K,51,balance_sheet,Total assets,total,transpose,13049,31049,flagged,balance_equation
+BESTBUY_2019_10K,51,balance_sheet,Total assets,total,times1000,13049,13049000,flagged,balance_equation
+BESTBUY_2019_10K,51,balance_sheet,Total assets,total,div1000,13049,13.049,flagged,balance_equation;current_assets_within_total
+BESTBUY_2019_10K,51,balance_sheet,Total assets,total,sign,13049,-13049,flagged,balance_equation;current_assets_within_total
+BESTBUY_2019_10K,51,balance_sheet,Total liabilities and equity,total,digit,12901,12909,flagged,balance_equation
+BESTBUY_2019_10K,51,balance_sheet,Total liabilities and equity,total,transpose,12901,12091,flagged,balance_equation
+BESTBUY_2019_10K,51,balance_sheet,Total liabilities and equity,total,times1000,12901,12901000,flagged,balance_equation
+BESTBUY_2019_10K,51,balance_sheet,Total liabilities and equity,total,div1000,12901,12.901,flagged,balance_equation
+BESTBUY_2019_10K,51,balance_sheet,Total liabilities and equity,total,sign,12901,-12901,flagged,balance_equation
+BESTBUY_2019_10K,51,balance_sheet,Total liabilities and equity,total,digit,13049,93049,flagged,balance_equation
+BESTBUY_2019_10K,51,balance_sheet,Total liabilities and equity,total,transpose,13049,13094,flagged,balance_equation
+BESTBUY_2019_10K,51,balance_sheet,Total liabilities and equity,total,times1000,13049,13049000,flagged,balance_equation
+BESTBUY_2019_10K,51,balance_sheet,Total liabilities and equity,total,div1000,13049,13.049,flagged,balance_equation
+BESTBUY_2019_10K,51,balance_sheet,Total liabilities and equity,total,sign,13049,-13049,flagged,balance_equation
+BESTBUY_2023_10K,39,income_statement,Revenue,component,digit,46298,46292,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Revenue,component,transpose,46298,46289,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Revenue,component,times1000,46298,46298000,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Revenue,component,div1000,46298,46.298,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Revenue,component,sign,46298,-46298,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Revenue,component,digit,51761,51769,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Revenue,component,transpose,51761,51671,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Revenue,component,times1000,51761,51761000,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Revenue,component,div1000,51761,51.761,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Revenue,component,sign,51761,-51761,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Revenue,component,digit,47262,47292,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Revenue,component,transpose,47262,47226,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Revenue,component,times1000,47262,47262000,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Revenue,component,div1000,47262,47.262,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Revenue,component,sign,47262,-47262,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Cost of sales,component,digit,36386,36396,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Cost of sales,component,transpose,36386,33686,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Cost of sales,component,times1000,36386,36386000,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Cost of sales,component,div1000,36386,36.386,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Cost of sales,component,sign,36386,-36386,passed_unnoticed,
+BESTBUY_2023_10K,39,income_statement,Cost of sales,component,digit,40121,40921,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Cost of sales,component,transpose,40121,41021,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Cost of sales,component,times1000,40121,40121000,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Cost of sales,component,div1000,40121,40.121,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Cost of sales,component,sign,40121,-40121,passed_unnoticed,
+BESTBUY_2023_10K,39,income_statement,Cost of sales,component,digit,36689,32689,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Cost of sales,component,transpose,36689,63689,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Cost of sales,component,times1000,36689,36689000,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Cost of sales,component,div1000,36689,36.689,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Cost of sales,component,sign,36689,-36689,passed_unnoticed,
+BESTBUY_2023_10K,39,income_statement,Gross profit,total,digit,9912,5912,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Gross profit,total,transpose,9912,9192,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Gross profit,total,times1000,9912,9912000,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Gross profit,total,div1000,9912,9.912,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Gross profit,total,sign,9912,-9912,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Gross profit,total,digit,11640,11600,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Gross profit,total,transpose,11640,11604,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Gross profit,total,times1000,11640,11640000,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Gross profit,total,div1000,11640,11.64,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Gross profit,total,sign,11640,-11640,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Gross profit,total,digit,10573,12573,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Gross profit,total,transpose,10573,1573,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Gross profit,total,times1000,10573,10573000,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Gross profit,total,div1000,10573,10.573,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Gross profit,total,sign,10573,-10573,flagged,gross_profit
+BLOCK_2016_10K,67,balance_sheet,Total assets,total,digit,1211362,1211361,flagged,balance_equation
+BLOCK_2016_10K,67,balance_sheet,Total assets,total,transpose,1211362,1211632,flagged,balance_equation
+BLOCK_2016_10K,67,balance_sheet,Total assets,total,times1000,1211362,1211362000,flagged,balance_equation
+BLOCK_2016_10K,67,balance_sheet,Total assets,total,div1000,1211362,1211.362,flagged,balance_equation;current_assets_within_total
+BLOCK_2016_10K,67,balance_sheet,Total assets,total,sign,1211362,-1211362,flagged,balance_equation;current_assets_within_total
+BLOCK_2016_10K,67,balance_sheet,Total assets,total,digit,894772,894872,flagged,balance_equation
+BLOCK_2016_10K,67,balance_sheet,Total assets,total,transpose,894772,849772,flagged,balance_equation
+BLOCK_2016_10K,67,balance_sheet,Total assets,total,times1000,894772,894772000,flagged,balance_equation
+BLOCK_2016_10K,67,balance_sheet,Total assets,total,div1000,894772,894.772,flagged,balance_equation;current_assets_within_total
+BLOCK_2016_10K,67,balance_sheet,Total assets,total,sign,894772,-894772,flagged,balance_equation;current_assets_within_total
+BLOCK_2016_10K,67,balance_sheet,Total liabilities,total,digit,635209,635202,flagged,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities,total,transpose,635209,653209,flagged,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities,total,times1000,635209,635209000,flagged,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities,total,div1000,635209,635.209,flagged,current_liabilities_within_total;liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities,total,sign,635209,-635209,flagged,current_liabilities_within_total;liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities,total,digit,386724,986724,flagged,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities,total,transpose,386724,368724,flagged,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities,total,times1000,386724,386724000,flagged,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities,total,div1000,386724,386.724,flagged,current_liabilities_within_total;liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities,total,sign,386724,-386724,flagged,current_liabilities_within_total;liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total stockholders? equity,total,digit,576153,526153,flagged,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total stockholders? equity,total,transpose,576153,567153,flagged,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total stockholders? equity,total,times1000,576153,576153000,flagged,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total stockholders? equity,total,div1000,576153,576.153,flagged,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total stockholders? equity,total,sign,576153,-576153,flagged,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total stockholders? equity,total,digit,508048,508045,flagged,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total stockholders? equity,total,transpose,508048,58048,flagged,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total stockholders? equity,total,times1000,508048,508048000,flagged,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total stockholders? equity,total,div1000,508048,508.048,flagged,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total stockholders? equity,total,sign,508048,-508048,flagged,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities and stockholders? equity,total,digit,1211362,1218362,flagged,balance_equation;liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities and stockholders? equity,total,transpose,1211362,1121362,flagged,balance_equation;liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities and stockholders? equity,total,times1000,1211362,1211362000,flagged,balance_equation;liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities and stockholders? equity,total,div1000,1211362,1211.362,flagged,balance_equation;liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities and stockholders? equity,total,sign,1211362,-1211362,flagged,balance_equation;liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities and stockholders? equity,total,digit,894772,894872,flagged,balance_equation;liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities and stockholders? equity,total,transpose,894772,849772,flagged,balance_equation;liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities and stockholders? equity,total,times1000,894772,894772000,flagged,balance_equation;liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities and stockholders? equity,total,div1000,894772,894.772,flagged,balance_equation;liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities and stockholders? equity,total,sign,894772,-894772,flagged,balance_equation;liabilities_plus_equity
+BOEING_2018_10K,51,balance_sheet,Total assets,total,digit,117359,137359,flagged,balance_equation
+BOEING_2018_10K,51,balance_sheet,Total assets,total,transpose,117359,171359,flagged,balance_equation
+BOEING_2018_10K,51,balance_sheet,Total assets,total,times1000,117359,117359000,flagged,balance_equation
+BOEING_2018_10K,51,balance_sheet,Total assets,total,div1000,117359,117.359,flagged,balance_equation;current_assets_within_total
+BOEING_2018_10K,51,balance_sheet,Total assets,total,sign,117359,-117359,flagged,balance_equation;current_assets_within_total
+BOEING_2018_10K,51,balance_sheet,Total assets,total,digit,112362,111362,flagged,balance_equation
+BOEING_2018_10K,51,balance_sheet,Total assets,total,transpose,112362,112326,flagged,balance_equation
+BOEING_2018_10K,51,balance_sheet,Total assets,total,times1000,112362,112362000,flagged,balance_equation
+BOEING_2018_10K,51,balance_sheet,Total assets,total,div1000,112362,112.362,flagged,balance_equation;current_assets_within_total
+BOEING_2018_10K,51,balance_sheet,Total assets,total,sign,112362,-112362,flagged,balance_equation;current_assets_within_total
+BOEING_2018_10K,51,balance_sheet,Total liabilities and equity,total,digit,117359,114359,flagged,balance_equation
+BOEING_2018_10K,51,balance_sheet,Total liabilities and equity,total,transpose,117359,117539,flagged,balance_equation
+BOEING_2018_10K,51,balance_sheet,Total liabilities and equity,total,times1000,117359,117359000,flagged,balance_equation
+BOEING_2018_10K,51,balance_sheet,Total liabilities and equity,total,div1000,117359,117.359,flagged,balance_equation
+BOEING_2018_10K,51,balance_sheet,Total liabilities and equity,total,sign,117359,-117359,flagged,balance_equation
+BOEING_2018_10K,51,balance_sheet,Total liabilities and equity,total,digit,112362,312362,flagged,balance_equation
+BOEING_2018_10K,51,balance_sheet,Total liabilities and equity,total,transpose,112362,112632,flagged,balance_equation
+BOEING_2018_10K,51,balance_sheet,Total liabilities and equity,total,times1000,112362,112362000,flagged,balance_equation
+BOEING_2018_10K,51,balance_sheet,Total liabilities and equity,total,div1000,112362,112.362,flagged,balance_equation
+BOEING_2018_10K,51,balance_sheet,Total liabilities and equity,total,sign,112362,-112362,flagged,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL ASSETS,total,digit,87896,97896,flagged,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL ASSETS,total,transpose,87896,88796,flagged,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL ASSETS,total,times1000,87896,87896000,flagged,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL ASSETS,total,div1000,87896,87.896,flagged,balance_equation;current_assets_within_total
+COCACOLA_2017_10K,75,balance_sheet,TOTAL ASSETS,total,sign,87896,-87896,flagged,balance_equation;current_assets_within_total
+COCACOLA_2017_10K,75,balance_sheet,TOTAL ASSETS,total,digit,87270,97270,flagged,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL ASSETS,total,transpose,87270,82770,flagged,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL ASSETS,total,times1000,87270,87270000,flagged,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL ASSETS,total,div1000,87270,87.27,flagged,balance_equation;current_assets_within_total
+COCACOLA_2017_10K,75,balance_sheet,TOTAL ASSETS,total,sign,87270,-87270,flagged,balance_equation;current_assets_within_total
+COCACOLA_2017_10K,75,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,digit,87896,87893,flagged,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,transpose,87896,78896,flagged,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,times1000,87896,87896000,flagged,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,div1000,87896,87.896,flagged,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,sign,87896,-87896,flagged,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,digit,87270,87280,flagged,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,transpose,87270,82770,flagged,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,times1000,87270,87270000,flagged,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,div1000,87270,87.27,flagged,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,sign,87270,-87270,flagged,balance_equation
+CORNING_2020_10K,69,income_statement,Net sales,component,digit,11303,11203,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Net sales,component,transpose,11303,11033,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Net sales,component,times1000,11303,11303000,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Net sales,component,div1000,11303,11.303,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Net sales,component,sign,11303,-11303,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Net sales,component,digit,11503,11303,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Net sales,component,transpose,11503,11530,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Net sales,component,times1000,11503,11503000,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Net sales,component,div1000,11503,11.503,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Net sales,component,sign,11503,-11503,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Net sales,component,digit,11290,11990,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Net sales,component,transpose,11290,11209,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Net sales,component,times1000,11290,11290000,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Net sales,component,div1000,11290,11.29,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Net sales,component,sign,11290,-11290,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Cost of sales,component,digit,7772,7776,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Cost of sales,component,transpose,7772,7727,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Cost of sales,component,times1000,7772,7772000,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Cost of sales,component,div1000,7772,7.772,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Cost of sales,component,sign,7772,-7772,passed_unnoticed,
+CORNING_2020_10K,69,income_statement,Cost of sales,component,digit,7468,4468,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Cost of sales,component,transpose,7468,4768,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Cost of sales,component,times1000,7468,7468000,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Cost of sales,component,div1000,7468,7.468,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Cost of sales,component,sign,7468,-7468,passed_unnoticed,
+CORNING_2020_10K,69,income_statement,Cost of sales,component,digit,6829,6822,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Cost of sales,component,transpose,6829,6289,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Cost of sales,component,times1000,6829,6829000,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Cost of sales,component,div1000,6829,6.829,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Cost of sales,component,sign,6829,-6829,passed_unnoticed,
+CORNING_2020_10K,69,income_statement,Gross margin,total,digit,3531,3501,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Gross margin,total,transpose,3531,3351,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Gross margin,total,times1000,3531,3531000,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Gross margin,total,div1000,3531,3.531,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Gross margin,total,sign,3531,-3531,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Gross margin,total,digit,4035,4735,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Gross margin,total,transpose,4035,4053,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Gross margin,total,times1000,4035,4035000,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Gross margin,total,div1000,4035,4.035,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Gross margin,total,sign,4035,-4035,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Gross margin,total,digit,4461,8461,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Gross margin,total,transpose,4461,4416,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Gross margin,total,times1000,4461,4461000,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Gross margin,total,div1000,4461,4.461,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Gross margin,total,sign,4461,-4461,flagged,gross_profit
+CORNING_2020_10K,71,balance_sheet,Total Assets,total,digit,30775,20775,flagged,balance_equation
+CORNING_2020_10K,71,balance_sheet,Total Assets,total,transpose,30775,30757,flagged,balance_equation
+CORNING_2020_10K,71,balance_sheet,Total Assets,total,times1000,30775,30775000,flagged,balance_equation
+CORNING_2020_10K,71,balance_sheet,Total Assets,total,div1000,30775,30.775,flagged,balance_equation;current_assets_within_total
+CORNING_2020_10K,71,balance_sheet,Total Assets,total,sign,30775,-30775,flagged,balance_equation;current_assets_within_total
+CORNING_2020_10K,71,balance_sheet,Total Assets,total,digit,28898,58898,flagged,balance_equation
+CORNING_2020_10K,71,balance_sheet,Total Assets,total,transpose,28898,82898,flagged,balance_equation
+CORNING_2020_10K,71,balance_sheet,Total Assets,total,times1000,28898,28898000,flagged,balance_equation
+CORNING_2020_10K,71,balance_sheet,Total Assets,total,div1000,28898,28.898,flagged,balance_equation;current_assets_within_total
+CORNING_2020_10K,71,balance_sheet,Total Assets,total,sign,28898,-28898,flagged,balance_equation;current_assets_within_total
+CORNING_2020_10K,71,balance_sheet,Total liabilities,total,digit,17327,17377,flagged,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total liabilities,total,transpose,17327,17372,flagged,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total liabilities,total,times1000,17327,17327000,flagged,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total liabilities,total,div1000,17327,17.327,flagged,current_liabilities_within_total;liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total liabilities,total,sign,17327,-17327,flagged,current_liabilities_within_total;liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total liabilities,total,digit,15901,15911,flagged,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total liabilities,total,transpose,15901,15091,flagged,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total liabilities,total,times1000,15901,15901000,flagged,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total liabilities,total,div1000,15901,15.901,flagged,current_liabilities_within_total;liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total liabilities,total,sign,15901,-15901,flagged,current_liabilities_within_total;liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total equity,total,digit,13448,13488,flagged,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total equity,total,transpose,13448,31448,flagged,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total equity,total,times1000,13448,13448000,flagged,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total equity,total,div1000,13448,13.448,flagged,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total equity,total,sign,13448,-13448,flagged,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total equity,total,digit,12997,18997,flagged,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total equity,total,transpose,12997,19297,flagged,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total equity,total,times1000,12997,12997000,flagged,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total equity,total,div1000,12997,12.997,flagged,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total equity,total,sign,12997,-12997,flagged,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total Liabilities and Equity,total,digit,30775,40775,flagged,balance_equation;liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total Liabilities and Equity,total,transpose,30775,37075,flagged,balance_equation;liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total Liabilities and Equity,total,times1000,30775,30775000,flagged,balance_equation;liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total Liabilities and Equity,total,div1000,30775,30.775,flagged,balance_equation;liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total Liabilities and Equity,total,sign,30775,-30775,flagged,balance_equation;liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total Liabilities and Equity,total,digit,28898,28798,flagged,balance_equation;liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total Liabilities and Equity,total,transpose,28898,28988,flagged,balance_equation;liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total Liabilities and Equity,total,times1000,28898,28898000,flagged,balance_equation;liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total Liabilities and Equity,total,div1000,28898,28.898,flagged,balance_equation;liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total Liabilities and Equity,total,sign,28898,-28898,flagged,balance_equation;liabilities_plus_equity
+CORNING_2021_10K,64,income_statement,Net sales,component,digit,14082,15082,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Net sales,component,transpose,14082,14028,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Net sales,component,times1000,14082,14082000,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Net sales,component,div1000,14082,14.082,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Net sales,component,sign,14082,-14082,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Net sales,component,digit,11303,13303,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Net sales,component,transpose,11303,11033,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Net sales,component,times1000,11303,11303000,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Net sales,component,div1000,11303,11.303,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Net sales,component,sign,11303,-11303,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Net sales,component,digit,11503,11593,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Net sales,component,transpose,11503,15103,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Net sales,component,times1000,11503,11503000,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Net sales,component,div1000,11503,11.503,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Net sales,component,sign,11503,-11503,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Cost of sales,component,digit,9019,9619,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Cost of sales,component,transpose,9019,9109,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Cost of sales,component,times1000,9019,9019000,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Cost of sales,component,div1000,9019,9.019,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Cost of sales,component,sign,9019,-9019,passed_unnoticed,
+CORNING_2021_10K,64,income_statement,Cost of sales,component,digit,7772,4772,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Cost of sales,component,transpose,7772,7727,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Cost of sales,component,times1000,7772,7772000,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Cost of sales,component,div1000,7772,7.772,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Cost of sales,component,sign,7772,-7772,passed_unnoticed,
+CORNING_2021_10K,64,income_statement,Cost of sales,component,digit,7468,7469,absorbed_as_rounding,
+CORNING_2021_10K,64,income_statement,Cost of sales,component,transpose,7468,7648,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Cost of sales,component,times1000,7468,7468000,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Cost of sales,component,div1000,7468,7.468,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Cost of sales,component,sign,7468,-7468,passed_unnoticed,
+CORNING_2021_10K,64,income_statement,Gross margin,total,digit,5063,5263,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Gross margin,total,transpose,5063,5603,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Gross margin,total,times1000,5063,5063000,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Gross margin,total,div1000,5063,5.063,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Gross margin,total,sign,5063,-5063,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Gross margin,total,digit,3531,9531,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Gross margin,total,transpose,3531,3513,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Gross margin,total,times1000,3531,3531000,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Gross margin,total,div1000,3531,3.531,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Gross margin,total,sign,3531,-3531,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Gross margin,total,digit,4035,4835,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Gross margin,total,transpose,4035,435,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Gross margin,total,times1000,4035,4035000,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Gross margin,total,div1000,4035,4.035,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Gross margin,total,sign,4035,-4035,flagged,gross_profit
+CORNING_2022_10K,59,balance_sheet,Total Assets,total,digit,29499,29493,flagged,balance_equation
+CORNING_2022_10K,59,balance_sheet,Total Assets,total,transpose,29499,92499,flagged,balance_equation
+CORNING_2022_10K,59,balance_sheet,Total Assets,total,times1000,29499,29499000,flagged,balance_equation
+CORNING_2022_10K,59,balance_sheet,Total Assets,total,div1000,29499,29.499,flagged,balance_equation;current_assets_within_total
+CORNING_2022_10K,59,balance_sheet,Total Assets,total,sign,29499,-29499,flagged,balance_equation;current_assets_within_total
+CORNING_2022_10K,59,balance_sheet,Total Assets,total,digit,30154,30104,flagged,balance_equation
+CORNING_2022_10K,59,balance_sheet,Total Assets,total,transpose,30154,3154,flagged,balance_equation;current_assets_within_total
+CORNING_2022_10K,59,balance_sheet,Total Assets,total,times1000,30154,30154000,flagged,balance_equation
+CORNING_2022_10K,59,balance_sheet,Total Assets,total,div1000,30154,30.154,flagged,balance_equation;current_assets_within_total
+CORNING_2022_10K,59,balance_sheet,Total Assets,total,sign,30154,-30154,flagged,balance_equation;current_assets_within_total
+CORNING_2022_10K,59,balance_sheet,Total liabilities,total,digit,17224,47224,flagged,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total liabilities,total,transpose,17224,12724,flagged,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total liabilities,total,times1000,17224,17224000,flagged,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total liabilities,total,div1000,17224,17.224,flagged,current_liabilities_within_total;liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total liabilities,total,sign,17224,-17224,flagged,current_liabilities_within_total;liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total liabilities,total,digit,17609,14609,flagged,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total liabilities,total,transpose,17609,16709,flagged,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total liabilities,total,times1000,17609,17609000,flagged,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total liabilities,total,div1000,17609,17.609,flagged,current_liabilities_within_total;liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total liabilities,total,sign,17609,-17609,flagged,current_liabilities_within_total;liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total equity,total,digit,12275,12205,flagged,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total equity,total,transpose,12275,12257,flagged,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total equity,total,times1000,12275,12275000,flagged,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total equity,total,div1000,12275,12.275,flagged,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total equity,total,sign,12275,-12275,flagged,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total equity,total,digit,12545,22545,flagged,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total equity,total,transpose,12545,12455,flagged,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total equity,total,times1000,12545,12545000,flagged,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total equity,total,div1000,12545,12.545,flagged,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total equity,total,sign,12545,-12545,flagged,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total Liabilities and Equity,total,digit,29499,59499,flagged,balance_equation;liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total Liabilities and Equity,total,transpose,29499,92499,flagged,balance_equation;liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total Liabilities and Equity,total,times1000,29499,29499000,flagged,balance_equation;liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total Liabilities and Equity,total,div1000,29499,29.499,flagged,balance_equation;liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total Liabilities and Equity,total,sign,29499,-29499,flagged,balance_equation;liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total Liabilities and Equity,total,digit,30154,70154,flagged,balance_equation;liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total Liabilities and Equity,total,transpose,30154,30514,flagged,balance_equation;liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total Liabilities and Equity,total,times1000,30154,30154000,flagged,balance_equation;liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total Liabilities and Equity,total,div1000,30154,30.154,flagged,balance_equation;liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total Liabilities and Equity,total,sign,30154,-30154,flagged,balance_equation;liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL ASSETS,total,digit,59268,59168,flagged,balance_equation
+COSTCO_2021_10K,37,balance_sheet,TOTAL ASSETS,total,transpose,59268,59628,flagged,balance_equation
+COSTCO_2021_10K,37,balance_sheet,TOTAL ASSETS,total,times1000,59268,59268000,flagged,balance_equation
+COSTCO_2021_10K,37,balance_sheet,TOTAL ASSETS,total,div1000,59268,59.268,flagged,balance_equation;current_assets_within_total
+COSTCO_2021_10K,37,balance_sheet,TOTAL ASSETS,total,sign,59268,-59268,flagged,balance_equation;current_assets_within_total
+COSTCO_2021_10K,37,balance_sheet,TOTAL ASSETS,total,digit,55556,55558,flagged,balance_equation
+COSTCO_2021_10K,37,balance_sheet,TOTAL ASSETS,total,transpose,55556,55565,flagged,balance_equation
+COSTCO_2021_10K,37,balance_sheet,TOTAL ASSETS,total,times1000,55556,55556000,flagged,balance_equation
+COSTCO_2021_10K,37,balance_sheet,TOTAL ASSETS,total,div1000,55556,55.556,flagged,balance_equation;current_assets_within_total
+COSTCO_2021_10K,37,balance_sheet,TOTAL ASSETS,total,sign,55556,-55556,flagged,balance_equation;current_assets_within_total
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES,total,digit,41190,41890,flagged,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES,total,transpose,41190,41109,flagged,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES,total,times1000,41190,41190000,flagged,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES,total,div1000,41190,41.19,flagged,current_liabilities_within_total;liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES,total,sign,41190,-41190,flagged,current_liabilities_within_total;liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES,total,digit,36851,36852,absorbed_as_rounding,
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES,total,transpose,36851,38651,flagged,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES,total,times1000,36851,36851000,flagged,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES,total,div1000,36851,36.851,flagged,current_liabilities_within_total;liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES,total,sign,36851,-36851,flagged,current_liabilities_within_total;liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL EQUITY,total,digit,18078,18028,flagged,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL EQUITY,total,transpose,18078,10878,flagged,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL EQUITY,total,times1000,18078,18078000,flagged,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL EQUITY,total,div1000,18078,18.078,flagged,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL EQUITY,total,sign,18078,-18078,flagged,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL EQUITY,total,digit,18705,18700,flagged,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL EQUITY,total,transpose,18705,81705,flagged,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL EQUITY,total,times1000,18705,18705000,flagged,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL EQUITY,total,div1000,18705,18.705,flagged,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL EQUITY,total,sign,18705,-18705,flagged,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,digit,59268,57268,flagged,balance_equation;liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,transpose,59268,95268,flagged,balance_equation;liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,times1000,59268,59268000,flagged,balance_equation;liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,div1000,59268,59.268,flagged,balance_equation;liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,sign,59268,-59268,flagged,balance_equation;liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,digit,55556,58556,flagged,balance_equation;liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,transpose,55556,55565,flagged,balance_equation;liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,times1000,55556,55556000,flagged,balance_equation;liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,div1000,55556,55.556,flagged,balance_equation;liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,sign,55556,-55556,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total assets,total,digit,196456,396456,flagged,balance_equation
+CVSHEALTH_2018_10K,303,balance_sheet,Total assets,total,transpose,196456,196546,flagged,balance_equation
+CVSHEALTH_2018_10K,303,balance_sheet,Total assets,total,times1000,196456,196456000,flagged,balance_equation
+CVSHEALTH_2018_10K,303,balance_sheet,Total assets,total,div1000,196456,196.456,flagged,balance_equation;current_assets_within_total
+CVSHEALTH_2018_10K,303,balance_sheet,Total assets,total,sign,196456,-196456,flagged,balance_equation;current_assets_within_total
+CVSHEALTH_2018_10K,303,balance_sheet,Total assets,total,digit,95131,95130,flagged,balance_equation
+CVSHEALTH_2018_10K,303,balance_sheet,Total assets,total,transpose,95131,91531,flagged,balance_equation
+CVSHEALTH_2018_10K,303,balance_sheet,Total assets,total,times1000,95131,95131000,flagged,balance_equation
+CVSHEALTH_2018_10K,303,balance_sheet,Total assets,total,div1000,95131,95.131,flagged,balance_equation;current_assets_within_total
+CVSHEALTH_2018_10K,303,balance_sheet,Total assets,total,sign,95131,-95131,flagged,balance_equation;current_assets_within_total
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities,total,digit,137913,137933,flagged,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities,total,transpose,137913,137931,flagged,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities,total,times1000,137913,137913000,flagged,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities,total,div1000,137913,137.913,flagged,current_liabilities_within_total;liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities,total,sign,137913,-137913,flagged,current_liabilities_within_total;liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities,total,digit,57436,57426,flagged,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities,total,transpose,57436,57346,flagged,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities,total,times1000,57436,57436000,flagged,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities,total,div1000,57436,57.436,flagged,current_liabilities_within_total;liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities,total,sign,57436,-57436,flagged,current_liabilities_within_total;liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total shareholders? equity,total,digit,58543,52543,flagged,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total shareholders? equity,total,transpose,58543,58453,flagged,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total shareholders? equity,total,times1000,58543,58543000,flagged,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total shareholders? equity,total,div1000,58543,58.543,flagged,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total shareholders? equity,total,sign,58543,-58543,flagged,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total shareholders? equity,total,digit,37695,37615,flagged,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total shareholders? equity,total,transpose,37695,73695,flagged,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total shareholders? equity,total,times1000,37695,37695000,flagged,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total shareholders? equity,total,div1000,37695,37.695,flagged,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total shareholders? equity,total,sign,37695,-37695,flagged,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities and shareholders? equity,total,digit,196456,116456,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities and shareholders? equity,total,transpose,196456,916456,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities and shareholders? equity,total,times1000,196456,196456000,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities and shareholders? equity,total,div1000,196456,196.456,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities and shareholders? equity,total,sign,196456,-196456,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities and shareholders? equity,total,digit,95131,95132,flagged,balance_equation
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities and shareholders? equity,total,transpose,95131,59131,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities and shareholders? equity,total,times1000,95131,95131000,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities and shareholders? equity,total,div1000,95131,95.131,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities and shareholders? equity,total,sign,95131,-95131,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total assets,total,digit,228275,228273,flagged,balance_equation
+CVSHEALTH_2022_10K,109,balance_sheet,Total assets,total,transpose,228275,222875,flagged,balance_equation
+CVSHEALTH_2022_10K,109,balance_sheet,Total assets,total,times1000,228275,228275000,flagged,balance_equation
+CVSHEALTH_2022_10K,109,balance_sheet,Total assets,total,div1000,228275,228.275,flagged,balance_equation;current_assets_within_total
+CVSHEALTH_2022_10K,109,balance_sheet,Total assets,total,sign,228275,-228275,flagged,balance_equation;current_assets_within_total
+CVSHEALTH_2022_10K,109,balance_sheet,Total assets,total,digit,232999,232599,flagged,balance_equation
+CVSHEALTH_2022_10K,109,balance_sheet,Total assets,total,transpose,232999,223999,flagged,balance_equation
+CVSHEALTH_2022_10K,109,balance_sheet,Total assets,total,times1000,232999,232999000,flagged,balance_equation
+CVSHEALTH_2022_10K,109,balance_sheet,Total assets,total,div1000,232999,232.999,flagged,balance_equation;current_assets_within_total
+CVSHEALTH_2022_10K,109,balance_sheet,Total assets,total,sign,232999,-232999,flagged,balance_equation;current_assets_within_total
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities,total,digit,156960,156964,flagged,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities,total,transpose,156960,156690,flagged,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities,total,times1000,156960,156960000,flagged,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities,total,div1000,156960,156.96,flagged,current_liabilities_within_total;liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities,total,sign,156960,-156960,flagged,current_liabilities_within_total;liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities,total,digit,157618,257618,flagged,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities,total,transpose,157618,175618,flagged,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities,total,times1000,157618,157618000,flagged,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities,total,div1000,157618,157.618,flagged,current_liabilities_within_total;liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities,total,sign,157618,-157618,flagged,current_liabilities_within_total;liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total shareholders? equity,total,digit,71315,78315,flagged,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total shareholders? equity,total,transpose,71315,73115,flagged,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total shareholders? equity,total,times1000,71315,71315000,flagged,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total shareholders? equity,total,div1000,71315,71.315,flagged,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total shareholders? equity,total,sign,71315,-71315,flagged,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total shareholders? equity,total,digit,75381,75371,flagged,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total shareholders? equity,total,transpose,75381,75318,flagged,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total shareholders? equity,total,times1000,75381,75381000,flagged,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total shareholders? equity,total,div1000,75381,75.381,flagged,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total shareholders? equity,total,sign,75381,-75381,flagged,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities and shareholders? equity,total,digit,228275,222275,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities and shareholders? equity,total,transpose,228275,228257,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities and shareholders? equity,total,times1000,228275,228275000,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities and shareholders? equity,total,div1000,228275,228.275,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities and shareholders? equity,total,sign,228275,-228275,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities and shareholders? equity,total,digit,232999,202999,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities and shareholders? equity,total,transpose,232999,239299,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities and shareholders? equity,total,times1000,232999,232999000,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities and shareholders? equity,total,div1000,232999,232.999,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities and shareholders? equity,total,sign,232999,-232999,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total assets,total,digit,30111.2,30611.2,flagged,balance_equation
+GENERALMILLS_2019_10K,54,balance_sheet,Total assets,total,transpose,30111.2,3111.2,flagged,balance_equation;current_assets_within_total
+GENERALMILLS_2019_10K,54,balance_sheet,Total assets,total,times1000,30111.2,30111200.0,flagged,balance_equation
+GENERALMILLS_2019_10K,54,balance_sheet,Total assets,total,div1000,30111.2,30.1112,flagged,balance_equation;current_assets_within_total
+GENERALMILLS_2019_10K,54,balance_sheet,Total assets,total,sign,30111.2,-30111.2,flagged,balance_equation;current_assets_within_total
+GENERALMILLS_2019_10K,54,balance_sheet,Total assets,total,digit,30624.0,50624.0,flagged,balance_equation
+GENERALMILLS_2019_10K,54,balance_sheet,Total assets,total,transpose,30624.0,30264.0,flagged,balance_equation
+GENERALMILLS_2019_10K,54,balance_sheet,Total assets,total,times1000,30624.0,30624000.0,flagged,balance_equation
+GENERALMILLS_2019_10K,54,balance_sheet,Total assets,total,div1000,30624.0,30.624,flagged,balance_equation;current_assets_within_total
+GENERALMILLS_2019_10K,54,balance_sheet,Total assets,total,sign,30624.0,-30624.0,flagged,balance_equation;current_assets_within_total
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities,total,digit,22191.8,22111.8,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities,total,transpose,22191.8,22911.8,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities,total,times1000,22191.8,22191800.0,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities,total,div1000,22191.8,22.1918,flagged,current_liabilities_within_total;liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities,total,sign,22191.8,-22191.8,flagged,current_liabilities_within_total;liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities,total,digit,23355.4,73355.4,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities,total,transpose,23355.4,23354.5,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities,total,times1000,23355.4,23355400.0,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities,total,div1000,23355.4,23.3554,flagged,current_liabilities_within_total;liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities,total,sign,23355.4,-23355.4,flagged,current_liabilities_within_total;liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Redeemable interest,component,digit,551.7,511.7,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Redeemable interest,component,transpose,551.7,515.7,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Redeemable interest,component,times1000,551.7,551700.0,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Redeemable interest,component,div1000,551.7,0.5517,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Redeemable interest,component,sign,551.7,-551.7,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Redeemable interest,component,digit,776.2,776.4,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Redeemable interest,component,transpose,776.2,767.2,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Redeemable interest,component,times1000,776.2,776200.0,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Redeemable interest,component,div1000,776.2,0.7762,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Redeemable interest,component,sign,776.2,-776.2,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total equity,total,digit,7367.7,5367.7,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total equity,total,transpose,7367.7,7376.7,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total equity,total,times1000,7367.7,7367700.0,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total equity,total,div1000,7367.7,7.3677,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total equity,total,sign,7367.7,-7367.7,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total equity,total,digit,6492.4,6992.4,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total equity,total,transpose,6492.4,6429.4,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total equity,total,times1000,6492.4,6492400.0,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total equity,total,div1000,6492.4,6.4924,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total equity,total,sign,6492.4,-6492.4,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities and equity,total,digit,30111.2,30111.6,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities and equity,total,transpose,30111.2,31011.2,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities and equity,total,times1000,30111.2,30111200.0,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities and equity,total,div1000,30111.2,30.1112,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities and equity,total,sign,30111.2,-30111.2,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities and equity,total,digit,30624.0,32624.0,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities and equity,total,transpose,30624.0,30620.4,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities and equity,total,times1000,30624.0,30624000.0,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities and equity,total,div1000,30624.0,30.624,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities and equity,total,sign,30624.0,-30624.0,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total assets,total,digit,30806.7,30807.7,flagged,balance_equation
+GENERALMILLS_2020_10K,49,balance_sheet,Total assets,total,transpose,30806.7,3806.7,flagged,balance_equation;current_assets_within_total
+GENERALMILLS_2020_10K,49,balance_sheet,Total assets,total,times1000,30806.7,30806700.0,flagged,balance_equation
+GENERALMILLS_2020_10K,49,balance_sheet,Total assets,total,div1000,30806.7,30.8067,flagged,balance_equation;current_assets_within_total
+GENERALMILLS_2020_10K,49,balance_sheet,Total assets,total,sign,30806.7,-30806.7,flagged,balance_equation;current_assets_within_total
+GENERALMILLS_2020_10K,49,balance_sheet,Total assets,total,digit,30111.2,30112.2,flagged,balance_equation
+GENERALMILLS_2020_10K,49,balance_sheet,Total assets,total,transpose,30111.2,30112.1,flagged,balance_equation
+GENERALMILLS_2020_10K,49,balance_sheet,Total assets,total,times1000,30111.2,30111200.0,flagged,balance_equation
+GENERALMILLS_2020_10K,49,balance_sheet,Total assets,total,div1000,30111.2,30.1112,flagged,balance_equation;current_assets_within_total
+GENERALMILLS_2020_10K,49,balance_sheet,Total assets,total,sign,30111.2,-30111.2,flagged,balance_equation;current_assets_within_total
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities,total,digit,21912.6,21912.8,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities,total,transpose,21912.6,21921.6,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities,total,times1000,21912.6,21912600.0,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities,total,div1000,21912.6,21.9126,flagged,current_liabilities_within_total;liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities,total,sign,21912.6,-21912.6,flagged,current_liabilities_within_total;liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities,total,digit,22191.8,52191.8,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities,total,transpose,22191.8,21291.8,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities,total,times1000,22191.8,22191800.0,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities,total,div1000,22191.8,22.1918,flagged,current_liabilities_within_total;liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities,total,sign,22191.8,-22191.8,flagged,current_liabilities_within_total;liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Redeemable interest,component,digit,544.6,544.9,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Redeemable interest,component,transpose,544.6,454.6,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Redeemable interest,component,times1000,544.6,544600.0,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Redeemable interest,component,div1000,544.6,0.5446,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Redeemable interest,component,sign,544.6,-544.6,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Redeemable interest,component,digit,551.7,551.1,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Redeemable interest,component,transpose,551.7,557.1,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Redeemable interest,component,times1000,551.7,551700.0,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Redeemable interest,component,div1000,551.7,0.5517,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Redeemable interest,component,sign,551.7,-551.7,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total equity,total,digit,8349.5,8329.5,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total equity,total,transpose,8349.5,8345.9,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total equity,total,times1000,8349.5,8349500.0,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total equity,total,div1000,8349.5,8.3495,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total equity,total,sign,8349.5,-8349.5,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total equity,total,digit,7367.7,7361.7,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total equity,total,transpose,7367.7,7376.7,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total equity,total,times1000,7367.7,7367700.0,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total equity,total,div1000,7367.7,7.3677,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total equity,total,sign,7367.7,-7367.7,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities and equity,total,digit,30806.7,30106.7,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities and equity,total,transpose,30806.7,30807.6,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities and equity,total,times1000,30806.7,30806700.0,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities and equity,total,div1000,30806.7,30.8067,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities and equity,total,sign,30806.7,-30806.7,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities and equity,total,digit,30111.2,60111.2,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities and equity,total,transpose,30111.2,30112.1,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities and equity,total,times1000,30111.2,30111200.0,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities and equity,total,div1000,30111.2,30.1112,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities and equity,total,sign,30111.2,-30111.2,flagged,balance_equation;liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total assets,total,digit,187378,189378,flagged,balance_equation
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total assets,total,transpose,187378,178378,flagged,balance_equation
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total assets,total,times1000,187378,187378000,flagged,balance_equation
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total assets,total,div1000,187378,187.378,flagged,balance_equation;current_assets_within_total
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total assets,total,sign,187378,-187378,flagged,balance_equation;current_assets_within_total
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total assets,total,digit,182018,182918,flagged,balance_equation
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total assets,total,transpose,182018,812018,flagged,balance_equation
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total assets,total,times1000,182018,182018000,flagged,balance_equation
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total assets,total,div1000,182018,182.018,flagged,balance_equation;current_assets_within_total
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total assets,total,sign,182018,-182018,flagged,balance_equation;current_assets_within_total
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities,total,digit,110574,210574,flagged,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities,total,transpose,110574,110547,flagged,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities,total,times1000,110574,110574000,flagged,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities,total,div1000,110574,110.574,flagged,current_liabilities_within_total;liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities,total,sign,110574,-110574,flagged,current_liabilities_within_total;liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities,total,digit,107995,105995,flagged,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities,total,transpose,107995,170995,flagged,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities,total,times1000,107995,107995000,flagged,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities,total,div1000,107995,107.995,flagged,current_liabilities_within_total;liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities,total,sign,107995,-107995,flagged,current_liabilities_within_total;liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total shareholders? equity,total,digit,76804,77804,flagged,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total shareholders? equity,total,transpose,76804,76840,flagged,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total shareholders? equity,total,times1000,76804,76804000,flagged,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total shareholders? equity,total,div1000,76804,76.804,flagged,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total shareholders? equity,total,sign,76804,-76804,flagged,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total shareholders? equity,total,digit,74023,74523,flagged,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total shareholders? equity,total,transpose,74023,70423,flagged,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total shareholders? equity,total,times1000,74023,74023000,flagged,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total shareholders? equity,total,div1000,74023,74.023,flagged,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total shareholders? equity,total,sign,74023,-74023,flagged,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities and shareholders? equity,total,digit,187378,197378,flagged,balance_equation;liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities and shareholders? equity,total,transpose,187378,187387,flagged,balance_equation;liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities and shareholders? equity,total,times1000,187378,187378000,flagged,balance_equation;liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities and shareholders? equity,total,div1000,187378,187.378,flagged,balance_equation;liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities and shareholders? equity,total,sign,187378,-187378,flagged,balance_equation;liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities and shareholders? equity,total,digit,182018,182013,flagged,balance_equation;liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities and shareholders? equity,total,transpose,182018,812018,flagged,balance_equation;liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities and shareholders? equity,total,times1000,182018,182018000,flagged,balance_equation;liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities and shareholders? equity,total,div1000,182018,182.018,flagged,balance_equation;liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities and shareholders? equity,total,sign,182018,-182018,flagged,balance_equation;liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL ASSETS,total,digit,101450,101440,flagged,balance_equation
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL ASSETS,total,transpose,101450,104150,flagged,balance_equation
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL ASSETS,total,times1000,101450,101450000,flagged,balance_equation
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL ASSETS,total,div1000,101450,101.45,flagged,balance_equation;current_assets_within_total
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL ASSETS,total,sign,101450,-101450,flagged,balance_equation;current_assets_within_total
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL ASSETS,total,digit,103461,103441,flagged,balance_equation
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL ASSETS,total,transpose,103461,104361,flagged,balance_equation
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL ASSETS,total,times1000,103461,103461000,flagged,balance_equation
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL ASSETS,total,div1000,103461,103.461,flagged,balance_equation;current_assets_within_total
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL ASSETS,total,sign,103461,-103461,flagged,balance_equation;current_assets_within_total
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES,total,digit,49701,41701,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES,total,transpose,49701,49071,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES,total,times1000,49701,49701000,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES,total,div1000,49701,49.701,flagged,current_liabilities_within_total;liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES,total,sign,49701,-49701,flagged,current_liabilities_within_total;liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES,total,digit,51683,51689,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES,total,transpose,51683,15683,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES,total,times1000,51683,51683000,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES,total,div1000,51683,51.683,flagged,current_liabilities_within_total;liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES,total,sign,51683,-51683,flagged,current_liabilities_within_total;liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,Redeemable noncontrolling interest,component,digit,3,6,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,Redeemable noncontrolling interest,component,transpose,3,,not_applicable,
+KRAFTHEINZ_2019_10K,51,balance_sheet,Redeemable noncontrolling interest,component,times1000,3,3000,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,Redeemable noncontrolling interest,component,div1000,3,0.003,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,Redeemable noncontrolling interest,component,sign,3,-3,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL EQUITY,total,digit,51749,51748,absorbed_as_rounding,
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL EQUITY,total,transpose,51749,51794,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL EQUITY,total,times1000,51749,51749000,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL EQUITY,total,div1000,51749,51.749,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL EQUITY,total,sign,51749,-51749,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL EQUITY,total,digit,51775,51771,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL EQUITY,total,transpose,51775,57175,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL EQUITY,total,times1000,51775,51775000,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL EQUITY,total,div1000,51775,51.775,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL EQUITY,total,sign,51775,-51775,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,digit,101450,601450,flagged,balance_equation;liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,transpose,101450,101540,flagged,balance_equation;liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,times1000,101450,101450000,flagged,balance_equation;liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,div1000,101450,101.45,flagged,balance_equation;liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,sign,101450,-101450,flagged,balance_equation;liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,digit,103461,103561,flagged,balance_equation;liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,transpose,103461,103416,flagged,balance_equation;liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,times1000,103461,103461000,flagged,balance_equation;liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,div1000,103461,103.461,flagged,balance_equation;liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,sign,103461,-103461,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total assets,total,digit,50710,50760,flagged,balance_equation
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total assets,total,transpose,50710,50701,flagged,balance_equation
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total assets,total,times1000,50710,50710000,flagged,balance_equation
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total assets,total,div1000,50710,50.71,flagged,balance_equation;current_assets_within_total
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total assets,total,sign,50710,-50710,flagged,balance_equation;current_assets_within_total
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total assets,total,digit,47528,47128,flagged,balance_equation
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total assets,total,transpose,47528,47258,flagged,balance_equation
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total assets,total,times1000,47528,47528000,flagged,balance_equation
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total assets,total,div1000,47528,47.528,flagged,balance_equation;current_assets_within_total
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total assets,total,sign,47528,-47528,flagged,balance_equation;current_assets_within_total
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities,total,digit,44672,44632,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities,total,transpose,44672,44627,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities,total,times1000,44672,44672000,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities,total,div1000,44672,44.672,flagged,current_liabilities_within_total;liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities,total,sign,44672,-44672,flagged,current_liabilities_within_total;liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities,total,digit,44357,44355,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities,total,transpose,44357,44537,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities,total,times1000,44357,44357000,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities,total,div1000,44357,44.357,flagged,current_liabilities_within_total;liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities,total,sign,44357,-44357,flagged,current_liabilities_within_total;liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total equity,total,digit,6038,6035,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total equity,total,transpose,6038,638,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total equity,total,times1000,6038,6038000,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total equity,total,div1000,6038,6.038,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total equity,total,sign,6038,-6038,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total equity,total,digit,3171,3371,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total equity,total,transpose,3171,3711,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total equity,total,times1000,3171,3171000,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total equity,total,div1000,3171,3.171,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total equity,total,sign,3171,-3171,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities and equity,total,digit,50710,50310,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities and equity,total,transpose,50710,5710,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities and equity,total,times1000,50710,50710000,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities and equity,total,div1000,50710,50.71,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities and equity,total,sign,50710,-50710,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities and equity,total,digit,47528,47520,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities and equity,total,transpose,47528,45728,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities and equity,total,times1000,47528,47528000,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities and equity,total,div1000,47528,47.528,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities and equity,total,sign,47528,-47528,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total assets,total,digit,50873,50773,flagged,balance_equation
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total assets,total,transpose,50873,50837,flagged,balance_equation
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total assets,total,times1000,50873,50873000,flagged,balance_equation
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total assets,total,div1000,50873,50.873,flagged,balance_equation;current_assets_within_total
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total assets,total,sign,50873,-50873,flagged,balance_equation;current_assets_within_total
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total assets,total,digit,50710,10710,flagged,balance_equation;current_assets_within_total
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total assets,total,transpose,50710,50170,flagged,balance_equation
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total assets,total,times1000,50710,50710000,flagged,balance_equation
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total assets,total,div1000,50710,50.71,flagged,balance_equation;current_assets_within_total
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total assets,total,sign,50710,-50710,flagged,balance_equation;current_assets_within_total
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities,total,digit,39914,34914,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities,total,transpose,39914,39941,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities,total,times1000,39914,39914000,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities,total,div1000,39914,39.914,flagged,current_liabilities_within_total;liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities,total,sign,39914,-39914,flagged,current_liabilities_within_total;liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities,total,digit,44672,44678,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities,total,transpose,44672,44762,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities,total,times1000,44672,44672000,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities,total,div1000,44672,44.672,flagged,current_liabilities_within_total;liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities,total,sign,44672,-44672,flagged,current_liabilities_within_total;liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total equity,total,digit,10959,10951,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total equity,total,transpose,10959,1959,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total equity,total,times1000,10959,10959000,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total equity,total,div1000,10959,10.959,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total equity,total,sign,10959,-10959,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total equity,total,digit,6038,6098,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total equity,total,transpose,6038,6083,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total equity,total,times1000,6038,6038000,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total equity,total,div1000,6038,6.038,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total equity,total,sign,6038,-6038,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities and equity,total,digit,50873,58873,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities and equity,total,transpose,50873,5873,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities and equity,total,times1000,50873,50873000,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities and equity,total,div1000,50873,50.873,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities and equity,total,sign,50873,-50873,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities and equity,total,digit,50710,50716,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities and equity,total,transpose,50710,5710,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities and equity,total,times1000,50710,50710000,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities and equity,total,div1000,50710,50.71,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities and equity,total,sign,50710,-50710,flagged,balance_equation;liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total assets,total,digit,411976,411978,flagged,balance_equation
+MICROSOFT_2023_10K,59,balance_sheet,Total assets,total,transpose,411976,141976,flagged,balance_equation;current_assets_within_total
+MICROSOFT_2023_10K,59,balance_sheet,Total assets,total,times1000,411976,411976000,flagged,balance_equation
+MICROSOFT_2023_10K,59,balance_sheet,Total assets,total,div1000,411976,411.976,flagged,balance_equation;current_assets_within_total
+MICROSOFT_2023_10K,59,balance_sheet,Total assets,total,sign,411976,-411976,flagged,balance_equation;current_assets_within_total
+MICROSOFT_2023_10K,59,balance_sheet,Total assets,total,digit,364840,334840,flagged,balance_equation
+MICROSOFT_2023_10K,59,balance_sheet,Total assets,total,transpose,364840,368440,flagged,balance_equation
+MICROSOFT_2023_10K,59,balance_sheet,Total assets,total,times1000,364840,364840000,flagged,balance_equation
+MICROSOFT_2023_10K,59,balance_sheet,Total assets,total,div1000,364840,364.84,flagged,balance_equation;current_assets_within_total
+MICROSOFT_2023_10K,59,balance_sheet,Total assets,total,sign,364840,-364840,flagged,balance_equation;current_assets_within_total
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities,total,digit,205753,203753,flagged,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities,total,transpose,205753,250753,flagged,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities,total,times1000,205753,205753000,flagged,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities,total,div1000,205753,205.753,flagged,current_liabilities_within_total;liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities,total,sign,205753,-205753,flagged,current_liabilities_within_total;liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities,total,digit,198298,198198,flagged,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities,total,transpose,198298,192898,flagged,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities,total,times1000,198298,198298000,flagged,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities,total,div1000,198298,198.298,flagged,current_liabilities_within_total;liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities,total,sign,198298,-198298,flagged,current_liabilities_within_total;liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total stockholders? equity,total,digit,206223,236223,flagged,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total stockholders? equity,total,transpose,206223,260223,flagged,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total stockholders? equity,total,times1000,206223,206223000,flagged,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total stockholders? equity,total,div1000,206223,206.223,flagged,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total stockholders? equity,total,sign,206223,-206223,flagged,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total stockholders? equity,total,digit,166542,146542,flagged,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total stockholders? equity,total,transpose,166542,166452,flagged,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total stockholders? equity,total,times1000,166542,166542000,flagged,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total stockholders? equity,total,div1000,166542,166.542,flagged,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total stockholders? equity,total,sign,166542,-166542,flagged,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities and stockholders? equity,total,digit,411976,421976,flagged,balance_equation;liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities and stockholders? equity,total,transpose,411976,141976,flagged,balance_equation;liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities and stockholders? equity,total,times1000,411976,411976000,flagged,balance_equation;liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities and stockholders? equity,total,div1000,411976,411.976,flagged,balance_equation;liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities and stockholders? equity,total,sign,411976,-411976,flagged,balance_equation;liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities and stockholders? equity,total,digit,364840,364845,flagged,balance_equation;liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities and stockholders? equity,total,transpose,364840,634840,flagged,balance_equation;liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities and stockholders? equity,total,times1000,364840,364840000,flagged,balance_equation;liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities and stockholders? equity,total,div1000,364840,364.84,flagged,balance_equation;liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities and stockholders? equity,total,sign,364840,-364840,flagged,balance_equation;liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total assets,total,digit,19012742,19212742,flagged,balance_equation
+NETFLIX_2017_10K,44,balance_sheet,Total assets,total,transpose,19012742,19102742,flagged,balance_equation
+NETFLIX_2017_10K,44,balance_sheet,Total assets,total,times1000,19012742,19012742000,flagged,balance_equation
+NETFLIX_2017_10K,44,balance_sheet,Total assets,total,div1000,19012742,19012.742,flagged,balance_equation;current_assets_within_total
+NETFLIX_2017_10K,44,balance_sheet,Total assets,total,sign,19012742,-19012742,flagged,balance_equation;current_assets_within_total
+NETFLIX_2017_10K,44,balance_sheet,Total assets,total,digit,13586610,13586611,flagged,balance_equation
+NETFLIX_2017_10K,44,balance_sheet,Total assets,total,transpose,13586610,15386610,flagged,balance_equation
+NETFLIX_2017_10K,44,balance_sheet,Total assets,total,times1000,13586610,13586610000,flagged,balance_equation
+NETFLIX_2017_10K,44,balance_sheet,Total assets,total,div1000,13586610,13586.61,flagged,balance_equation;current_assets_within_total
+NETFLIX_2017_10K,44,balance_sheet,Total assets,total,sign,13586610,-13586610,flagged,balance_equation;current_assets_within_total
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities,total,digit,15430786,15480786,flagged,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities,total,transpose,15430786,15340786,flagged,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities,total,times1000,15430786,15430786000,flagged,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities,total,div1000,15430786,15430.786,flagged,current_liabilities_within_total;liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities,total,sign,15430786,-15430786,flagged,current_liabilities_within_total;liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities,total,digit,10906810,70906810,flagged,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities,total,transpose,10906810,19006810,flagged,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities,total,times1000,10906810,10906810000,flagged,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities,total,div1000,10906810,10906.81,flagged,current_liabilities_within_total;liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities,total,sign,10906810,-10906810,flagged,current_liabilities_within_total;liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total stockholders? equity,total,digit,3581956,3581950,flagged,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total stockholders? equity,total,transpose,3581956,3589156,flagged,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total stockholders? equity,total,times1000,3581956,3581956000,flagged,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total stockholders? equity,total,div1000,3581956,3581.956,flagged,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total stockholders? equity,total,sign,3581956,-3581956,flagged,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total stockholders? equity,total,digit,2679800,2179800,flagged,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total stockholders? equity,total,transpose,2679800,2769800,flagged,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total stockholders? equity,total,times1000,2679800,2679800000,flagged,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total stockholders? equity,total,div1000,2679800,2679.8,flagged,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total stockholders? equity,total,sign,2679800,-2679800,flagged,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities and stockholders? equity,total,digit,19012742,19212742,flagged,balance_equation;liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities and stockholders? equity,total,transpose,19012742,91012742,flagged,balance_equation;liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities and stockholders? equity,total,times1000,19012742,19012742000,flagged,balance_equation;liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities and stockholders? equity,total,div1000,19012742,19012.742,flagged,balance_equation;liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities and stockholders? equity,total,sign,19012742,-19012742,flagged,balance_equation;liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities and stockholders? equity,total,digit,13586610,13587610,flagged,balance_equation;liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities and stockholders? equity,total,transpose,13586610,15386610,flagged,balance_equation;liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities and stockholders? equity,total,times1000,13586610,13586610000,flagged,balance_equation;liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities and stockholders? equity,total,div1000,13586610,13586.61,flagged,balance_equation;liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities and stockholders? equity,total,sign,13586610,-13586610,flagged,balance_equation;liabilities_plus_equity
+NIKE_2018_10K,45,income_statement,Revenues,component,digit,36397,36337,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Revenues,component,transpose,36397,33697,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Revenues,component,times1000,36397,36397000,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Revenues,component,div1000,36397,36.397,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Revenues,component,sign,36397,-36397,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Revenues,component,digit,34350,34360,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Revenues,component,transpose,34350,33450,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Revenues,component,times1000,34350,34350000,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Revenues,component,div1000,34350,34.35,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Revenues,component,sign,34350,-34350,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Revenues,component,digit,32376,32476,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Revenues,component,transpose,32376,33276,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Revenues,component,times1000,32376,32376000,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Revenues,component,div1000,32376,32.376,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Revenues,component,sign,32376,-32376,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Cost of sales,component,digit,20441,30441,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Cost of sales,component,transpose,20441,20414,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Cost of sales,component,times1000,20441,20441000,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Cost of sales,component,div1000,20441,20.441,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Cost of sales,component,sign,20441,-20441,passed_unnoticed,
+NIKE_2018_10K,45,income_statement,Cost of sales,component,digit,19038,79038,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Cost of sales,component,transpose,19038,91038,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Cost of sales,component,times1000,19038,19038000,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Cost of sales,component,div1000,19038,19.038,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Cost of sales,component,sign,19038,-19038,passed_unnoticed,
+NIKE_2018_10K,45,income_statement,Cost of sales,component,digit,17405,37405,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Cost of sales,component,transpose,17405,17450,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Cost of sales,component,times1000,17405,17405000,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Cost of sales,component,div1000,17405,17.405,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Cost of sales,component,sign,17405,-17405,passed_unnoticed,
+NIKE_2018_10K,45,income_statement,Gross profit,total,digit,15956,15954,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Gross profit,total,transpose,15956,15965,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Gross profit,total,times1000,15956,15956000,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Gross profit,total,div1000,15956,15.956,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Gross profit,total,sign,15956,-15956,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Gross profit,total,digit,15312,15382,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Gross profit,total,transpose,15312,51312,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Gross profit,total,times1000,15312,15312000,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Gross profit,total,div1000,15312,15.312,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Gross profit,total,sign,15312,-15312,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Gross profit,total,digit,14971,54971,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Gross profit,total,transpose,14971,19471,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Gross profit,total,times1000,14971,14971000,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Gross profit,total,div1000,14971,14.971,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Gross profit,total,sign,14971,-14971,flagged,gross_profit
+NIKE_2019_10K,53,balance_sheet,TOTAL ASSETS,total,digit,23717,24717,flagged,balance_equation
+NIKE_2019_10K,53,balance_sheet,TOTAL ASSETS,total,transpose,23717,23177,flagged,balance_equation
+NIKE_2019_10K,53,balance_sheet,TOTAL ASSETS,total,times1000,23717,23717000,flagged,balance_equation
+NIKE_2019_10K,53,balance_sheet,TOTAL ASSETS,total,div1000,23717,23.717,flagged,balance_equation;current_assets_within_total
+NIKE_2019_10K,53,balance_sheet,TOTAL ASSETS,total,sign,23717,-23717,flagged,balance_equation;current_assets_within_total
+NIKE_2019_10K,53,balance_sheet,TOTAL ASSETS,total,digit,22536,29536,flagged,balance_equation
+NIKE_2019_10K,53,balance_sheet,TOTAL ASSETS,total,transpose,22536,22356,flagged,balance_equation
+NIKE_2019_10K,53,balance_sheet,TOTAL ASSETS,total,times1000,22536,22536000,flagged,balance_equation
+NIKE_2019_10K,53,balance_sheet,TOTAL ASSETS,total,div1000,22536,22.536,flagged,balance_equation;current_assets_within_total
+NIKE_2019_10K,53,balance_sheet,TOTAL ASSETS,total,sign,22536,-22536,flagged,balance_equation;current_assets_within_total
+NIKE_2019_10K,53,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,digit,23717,23747,flagged,balance_equation
+NIKE_2019_10K,53,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,transpose,23717,32717,flagged,balance_equation
+NIKE_2019_10K,53,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,times1000,23717,23717000,flagged,balance_equation
+NIKE_2019_10K,53,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,div1000,23717,23.717,flagged,balance_equation
+NIKE_2019_10K,53,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,sign,23717,-23717,flagged,balance_equation
+NIKE_2019_10K,53,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,digit,22536,28536,flagged,balance_equation
+NIKE_2019_10K,53,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,transpose,22536,22356,flagged,balance_equation
+NIKE_2019_10K,53,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,times1000,22536,22536000,flagged,balance_equation
+NIKE_2019_10K,53,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,div1000,22536,22.536,flagged,balance_equation
+NIKE_2019_10K,53,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,sign,22536,-22536,flagged,balance_equation
+NIKE_2021_10K,58,income_statement,Revenues,component,digit,44538,34538,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Revenues,component,transpose,44538,44358,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Revenues,component,times1000,44538,44538000,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Revenues,component,div1000,44538,44.538,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Revenues,component,sign,44538,-44538,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Revenues,component,digit,37403,37401,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Revenues,component,transpose,37403,73403,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Revenues,component,times1000,37403,37403000,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Revenues,component,div1000,37403,37.403,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Revenues,component,sign,37403,-37403,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Revenues,component,digit,39117,33117,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Revenues,component,transpose,39117,93117,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Revenues,component,times1000,39117,39117000,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Revenues,component,div1000,39117,39.117,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Revenues,component,sign,39117,-39117,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Cost of sales,component,digit,24576,34576,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Cost of sales,component,transpose,24576,42576,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Cost of sales,component,times1000,24576,24576000,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Cost of sales,component,div1000,24576,24.576,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Cost of sales,component,sign,24576,-24576,passed_unnoticed,
+NIKE_2021_10K,58,income_statement,Cost of sales,component,digit,21162,21962,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Cost of sales,component,transpose,21162,21612,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Cost of sales,component,times1000,21162,21162000,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Cost of sales,component,div1000,21162,21.162,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Cost of sales,component,sign,21162,-21162,passed_unnoticed,
+NIKE_2021_10K,58,income_statement,Cost of sales,component,digit,21643,21623,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Cost of sales,component,transpose,21643,21463,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Cost of sales,component,times1000,21643,21643000,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Cost of sales,component,div1000,21643,21.643,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Cost of sales,component,sign,21643,-21643,passed_unnoticed,
+NIKE_2021_10K,58,income_statement,Gross profit,total,digit,19962,19992,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Gross profit,total,transpose,19962,19692,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Gross profit,total,times1000,19962,19962000,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Gross profit,total,div1000,19962,19.962,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Gross profit,total,sign,19962,-19962,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Gross profit,total,digit,16241,16271,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Gross profit,total,transpose,16241,12641,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Gross profit,total,times1000,16241,16241000,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Gross profit,total,div1000,16241,16.241,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Gross profit,total,sign,16241,-16241,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Gross profit,total,digit,17474,17475,absorbed_as_rounding,
+NIKE_2021_10K,58,income_statement,Gross profit,total,transpose,17474,14774,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Gross profit,total,times1000,17474,17474000,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Gross profit,total,div1000,17474,17.474,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Gross profit,total,sign,17474,-17474,flagged,gross_profit
+NIKE_2021_10K,60,balance_sheet,TOTAL ASSETS,total,digit,37740,33740,flagged,balance_equation
+NIKE_2021_10K,60,balance_sheet,TOTAL ASSETS,total,transpose,37740,73740,flagged,balance_equation
+NIKE_2021_10K,60,balance_sheet,TOTAL ASSETS,total,times1000,37740,37740000,flagged,balance_equation
+NIKE_2021_10K,60,balance_sheet,TOTAL ASSETS,total,div1000,37740,37.74,flagged,balance_equation;current_assets_within_total
+NIKE_2021_10K,60,balance_sheet,TOTAL ASSETS,total,sign,37740,-37740,flagged,balance_equation;current_assets_within_total
+NIKE_2021_10K,60,balance_sheet,TOTAL ASSETS,total,digit,31342,31542,flagged,balance_equation
+NIKE_2021_10K,60,balance_sheet,TOTAL ASSETS,total,transpose,31342,31324,flagged,balance_equation
+NIKE_2021_10K,60,balance_sheet,TOTAL ASSETS,total,times1000,31342,31342000,flagged,balance_equation
+NIKE_2021_10K,60,balance_sheet,TOTAL ASSETS,total,div1000,31342,31.342,flagged,balance_equation;current_assets_within_total
+NIKE_2021_10K,60,balance_sheet,TOTAL ASSETS,total,sign,31342,-31342,flagged,balance_equation;current_assets_within_total
+NIKE_2021_10K,60,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,digit,37740,17740,flagged,balance_equation
+NIKE_2021_10K,60,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,transpose,37740,37704,flagged,balance_equation
+NIKE_2021_10K,60,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,times1000,37740,37740000,flagged,balance_equation
+NIKE_2021_10K,60,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,div1000,37740,37.74,flagged,balance_equation
+NIKE_2021_10K,60,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,sign,37740,-37740,flagged,balance_equation
+NIKE_2021_10K,60,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,digit,31342,31382,flagged,balance_equation
+NIKE_2021_10K,60,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,transpose,31342,33142,flagged,balance_equation
+NIKE_2021_10K,60,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,times1000,31342,31342000,flagged,balance_equation
+NIKE_2021_10K,60,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,div1000,31342,31.342,flagged,balance_equation
+NIKE_2021_10K,60,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,sign,31342,-31342,flagged,balance_equation
+PAYPAL_2022_10K,60,balance_sheet,Total assets,total,digit,78717,48717,flagged,balance_equation;current_assets_within_total
+PAYPAL_2022_10K,60,balance_sheet,Total assets,total,transpose,78717,78771,flagged,balance_equation
+PAYPAL_2022_10K,60,balance_sheet,Total assets,total,times1000,78717,78717000,flagged,balance_equation
+PAYPAL_2022_10K,60,balance_sheet,Total assets,total,div1000,78717,78.717,flagged,balance_equation;current_assets_within_total
+PAYPAL_2022_10K,60,balance_sheet,Total assets,total,sign,78717,-78717,flagged,balance_equation;current_assets_within_total
+PAYPAL_2022_10K,60,balance_sheet,Total assets,total,digit,75803,77803,flagged,balance_equation
+PAYPAL_2022_10K,60,balance_sheet,Total assets,total,transpose,75803,75083,flagged,balance_equation
+PAYPAL_2022_10K,60,balance_sheet,Total assets,total,times1000,75803,75803000,flagged,balance_equation
+PAYPAL_2022_10K,60,balance_sheet,Total assets,total,div1000,75803,75.803,flagged,balance_equation;current_assets_within_total
+PAYPAL_2022_10K,60,balance_sheet,Total assets,total,sign,75803,-75803,flagged,balance_equation;current_assets_within_total
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities,total,digit,58443,58643,flagged,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities,total,transpose,58443,85443,flagged,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities,total,times1000,58443,58443000,flagged,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities,total,div1000,58443,58.443,flagged,current_liabilities_within_total;liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities,total,sign,58443,-58443,flagged,current_liabilities_within_total;liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities,total,digit,54076,57076,flagged,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities,total,transpose,54076,45076,flagged,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities,total,times1000,54076,54076000,flagged,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities,total,div1000,54076,54.076,flagged,current_liabilities_within_total;liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities,total,sign,54076,-54076,flagged,current_liabilities_within_total;liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total equity,total,digit,20274,20074,flagged,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total equity,total,transpose,20274,22074,flagged,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total equity,total,times1000,20274,20274000,flagged,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total equity,total,div1000,20274,20.274,flagged,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total equity,total,sign,20274,-20274,flagged,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total equity,total,digit,21727,11727,flagged,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total equity,total,transpose,21727,12727,flagged,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total equity,total,times1000,21727,21727000,flagged,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total equity,total,div1000,21727,21.727,flagged,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total equity,total,sign,21727,-21727,flagged,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities and equity,total,digit,78717,28717,flagged,balance_equation;liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities and equity,total,transpose,78717,78177,flagged,balance_equation;liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities and equity,total,times1000,78717,78717000,flagged,balance_equation;liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities and equity,total,div1000,78717,78.717,flagged,balance_equation;liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities and equity,total,sign,78717,-78717,flagged,balance_equation;liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities and equity,total,digit,75803,75903,flagged,balance_equation;liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities and equity,total,transpose,75803,75830,flagged,balance_equation;liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities and equity,total,times1000,75803,75803000,flagged,balance_equation;liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities and equity,total,div1000,75803,75.803,flagged,balance_equation;liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities and equity,total,sign,75803,-75803,flagged,balance_equation;liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total assets,total,digit,181476,181976,flagged,balance_equation
+PFIZER_2021_10K,58,balance_sheet,Total assets,total,transpose,181476,811476,flagged,balance_equation
+PFIZER_2021_10K,58,balance_sheet,Total assets,total,times1000,181476,181476000,flagged,balance_equation
+PFIZER_2021_10K,58,balance_sheet,Total assets,total,div1000,181476,181.476,flagged,balance_equation;current_assets_within_total
+PFIZER_2021_10K,58,balance_sheet,Total assets,total,sign,181476,-181476,flagged,balance_equation;current_assets_within_total
+PFIZER_2021_10K,58,balance_sheet,Total assets,total,digit,154229,134229,flagged,balance_equation
+PFIZER_2021_10K,58,balance_sheet,Total assets,total,transpose,154229,152429,flagged,balance_equation
+PFIZER_2021_10K,58,balance_sheet,Total assets,total,times1000,154229,154229000,flagged,balance_equation
+PFIZER_2021_10K,58,balance_sheet,Total assets,total,div1000,154229,154.229,flagged,balance_equation;current_assets_within_total
+PFIZER_2021_10K,58,balance_sheet,Total assets,total,sign,154229,-154229,flagged,balance_equation;current_assets_within_total
+PFIZER_2021_10K,58,balance_sheet,Total liabilities,total,digit,104013,104014,cancelled_rounding,
+PFIZER_2021_10K,58,balance_sheet,Total liabilities,total,transpose,104013,14013,flagged,current_liabilities_within_total;liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities,total,times1000,104013,104013000,flagged,liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities,total,div1000,104013,104.013,flagged,current_liabilities_within_total;liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities,total,sign,104013,-104013,flagged,current_liabilities_within_total;liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities,total,digit,90756,90786,flagged,liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities,total,transpose,90756,9756,flagged,current_liabilities_within_total;liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities,total,times1000,90756,90756000,flagged,liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities,total,div1000,90756,90.756,flagged,current_liabilities_within_total;liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities,total,sign,90756,-90756,flagged,current_liabilities_within_total;liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total equity,total,digit,77462,77962,flagged,liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total equity,total,transpose,77462,74762,flagged,liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total equity,total,times1000,77462,77462000,flagged,liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total equity,total,div1000,77462,77.462,flagged,liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total equity,total,sign,77462,-77462,flagged,liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total equity,total,digit,63473,63483,flagged,liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total equity,total,transpose,63473,63437,flagged,liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total equity,total,times1000,63473,63473000,flagged,liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total equity,total,div1000,63473,63.473,flagged,liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total equity,total,sign,63473,-63473,flagged,liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities and equity,total,digit,181476,189476,flagged,balance_equation;liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities and equity,total,transpose,181476,811476,flagged,balance_equation;liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities and equity,total,times1000,181476,181476000,flagged,balance_equation;liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities and equity,total,div1000,181476,181.476,flagged,balance_equation;liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities and equity,total,sign,181476,-181476,flagged,balance_equation;liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities and equity,total,digit,154229,154226,flagged,balance_equation;liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities and equity,total,transpose,154229,145229,flagged,balance_equation;liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities and equity,total,times1000,154229,154229000,flagged,balance_equation;liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities and equity,total,div1000,154229,154.229,flagged,balance_equation;liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities and equity,total,sign,154229,-154229,flagged,balance_equation;liabilities_plus_equity
+VERIZON_2022_10K,55,balance_sheet,Total assets,total,digit,379680,309680,flagged,balance_equation
+VERIZON_2022_10K,55,balance_sheet,Total assets,total,transpose,379680,376980,flagged,balance_equation
+VERIZON_2022_10K,55,balance_sheet,Total assets,total,times1000,379680,379680000,flagged,balance_equation
+VERIZON_2022_10K,55,balance_sheet,Total assets,total,div1000,379680,379.68,flagged,balance_equation;current_assets_within_total
+VERIZON_2022_10K,55,balance_sheet,Total assets,total,sign,379680,-379680,flagged,balance_equation;current_assets_within_total
+VERIZON_2022_10K,55,balance_sheet,Total assets,total,digit,366596,326596,flagged,balance_equation
+VERIZON_2022_10K,55,balance_sheet,Total assets,total,transpose,366596,366956,flagged,balance_equation
+VERIZON_2022_10K,55,balance_sheet,Total assets,total,times1000,366596,366596000,flagged,balance_equation
+VERIZON_2022_10K,55,balance_sheet,Total assets,total,div1000,366596,366.596,flagged,balance_equation;current_assets_within_total
+VERIZON_2022_10K,55,balance_sheet,Total assets,total,sign,366596,-366596,flagged,balance_equation;current_assets_within_total
+VERIZON_2022_10K,55,balance_sheet,Total liabilities and equity,total,digit,379680,479680,flagged,balance_equation
+VERIZON_2022_10K,55,balance_sheet,Total liabilities and equity,total,transpose,379680,397680,flagged,balance_equation
+VERIZON_2022_10K,55,balance_sheet,Total liabilities and equity,total,times1000,379680,379680000,flagged,balance_equation
+VERIZON_2022_10K,55,balance_sheet,Total liabilities and equity,total,div1000,379680,379.68,flagged,balance_equation
+VERIZON_2022_10K,55,balance_sheet,Total liabilities and equity,total,sign,379680,-379680,flagged,balance_equation
+VERIZON_2022_10K,55,balance_sheet,Total liabilities and equity,total,digit,366596,369596,flagged,balance_equation
+VERIZON_2022_10K,55,balance_sheet,Total liabilities and equity,total,transpose,366596,636596,flagged,balance_equation
+VERIZON_2022_10K,55,balance_sheet,Total liabilities and equity,total,times1000,366596,366596000,flagged,balance_equation
+VERIZON_2022_10K,55,balance_sheet,Total liabilities and equity,total,div1000,366596,366.596,flagged,balance_equation
+VERIZON_2022_10K,55,balance_sheet,Total liabilities and equity,total,sign,366596,-366596,flagged,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total assets,total,digit,204522,404522,flagged,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total assets,total,transpose,204522,240522,flagged,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total assets,total,times1000,204522,204522000,flagged,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total assets,total,div1000,204522,204.522,flagged,balance_equation;current_assets_within_total
+WALMART_2018_10K,58,balance_sheet,Total assets,total,sign,204522,-204522,flagged,balance_equation;current_assets_within_total
+WALMART_2018_10K,58,balance_sheet,Total assets,total,digit,198825,198820,flagged,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total assets,total,transpose,198825,198285,flagged,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total assets,total,times1000,198825,198825000,flagged,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total assets,total,div1000,198825,198.825,flagged,balance_equation;current_assets_within_total
+WALMART_2018_10K,58,balance_sheet,Total assets,total,sign,198825,-198825,flagged,balance_equation;current_assets_within_total
+WALMART_2018_10K,58,balance_sheet,Total liabilities and equity,total,digit,204522,208522,flagged,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total liabilities and equity,total,transpose,204522,204252,flagged,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total liabilities and equity,total,times1000,204522,204522000,flagged,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total liabilities and equity,total,div1000,204522,204.522,flagged,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total liabilities and equity,total,sign,204522,-204522,flagged,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total liabilities and equity,total,digit,198825,198815,flagged,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total liabilities and equity,total,transpose,198825,198852,flagged,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total liabilities and equity,total,times1000,198825,198825000,flagged,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total liabilities and equity,total,div1000,198825,198.825,flagged,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total liabilities and equity,total,sign,198825,-198825,flagged,balance_equation

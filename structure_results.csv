@@ -1,0 +1,357 @@
+document,page,statement,label,role,fault,outcome,rules
+3M_2018_10K,57,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+3M_2018_10K,57,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+3M_2018_10K,57,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total equity,total,drop_row,lost_but_reported,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total equity,total,shift_right,flagged,liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities and equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+3M_2018_10K,57,balance_sheet,Total liabilities and equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+3M_2022_10K,49,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+3M_2022_10K,49,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total equity,total,drop_row,lost_but_reported,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total equity,total,shift_right,flagged,liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities and equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+3M_2022_10K,49,balance_sheet,Total liabilities and equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+3M_2023Q2_10Q,4,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total equity,total,drop_row,lost_but_reported,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total equity,total,shift_right,flagged,liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities and equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+3M_2023Q2_10Q,4,balance_sheet,Total liabilities and equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total shareholders? equity,total,drop_row,lost_but_reported,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total shareholders? equity,total,shift_right,flagged,liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities and shareholders? equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+ACTIVISIONBLIZZARD_2019_10K,68,balance_sheet,Total liabilities and shareholders? equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total assets......................................................................................................................................,total,drop_row,lost_but_reported,balance_equation
+ADOBE_2015_10K,58,balance_sheet,Total assets......................................................................................................................................,total,shift_right,flagged,balance_equation
+ADOBE_2015_10K,58,balance_sheet,Total liabilities................................................................................................................................,total,drop_row,lost_but_reported,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities................................................................................................................................,total,shift_right,flagged,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total stockholders? equity...............................................................................................................,total,drop_row,lost_but_reported,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total stockholders? equity...............................................................................................................,total,shift_right,flagged,liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities and stockholders? equity........................................................................................,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+ADOBE_2015_10K,58,balance_sheet,Total liabilities and stockholders? equity........................................................................................,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2016_10K,61,income_statement,Total revenue,component,drop_row,lost_but_reported,gross_profit
+ADOBE_2016_10K,61,income_statement,Total revenue,component,shift_right,flagged,gross_profit
+ADOBE_2016_10K,61,income_statement,Total cost of revenue,component,drop_row,lost_but_reported,gross_profit
+ADOBE_2016_10K,61,income_statement,Total cost of revenue,component,shift_right,flagged,gross_profit
+ADOBE_2016_10K,61,income_statement,Gross profit,total,drop_row,check_lost,gross_profit
+ADOBE_2016_10K,61,income_statement,Gross profit,total,shift_right,flagged,gross_profit
+ADOBE_2017_10K,56,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+ADOBE_2017_10K,56,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+ADOBE_2017_10K,56,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total stockholders? equity,total,drop_row,lost_but_reported,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total stockholders? equity,total,shift_right,flagged,liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities and stockholders? equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+ADOBE_2017_10K,56,balance_sheet,Total liabilities and stockholders? equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+ADOBE_2022_10K,53,income_statement,Total revenue,component,drop_row,lost_but_reported,gross_profit
+ADOBE_2022_10K,53,income_statement,Total revenue,component,shift_right,flagged,gross_profit
+ADOBE_2022_10K,53,income_statement,Total cost of revenue,component,drop_row,lost_but_reported,gross_profit
+ADOBE_2022_10K,53,income_statement,Total cost of revenue,component,shift_right,flagged,gross_profit
+ADOBE_2022_10K,53,income_statement,Gross profit,total,drop_row,check_lost,gross_profit
+ADOBE_2022_10K,53,income_statement,Gross profit,total,shift_right,flagged,gross_profit
+AES_2022_10K,129,balance_sheet,TOTAL ASSETS,total,drop_row,lost_but_reported,balance_equation
+AES_2022_10K,129,balance_sheet,TOTAL ASSETS,total,shift_right,flagged,balance_equation
+AES_2022_10K,129,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,drop_row,lost_but_reported,balance_equation
+AES_2022_10K,129,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,shift_right,flagged,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total liabilities and stockholders? equity,total,drop_row,lost_but_reported,balance_equation
+AMAZON_2017_10K,39,balance_sheet,Total liabilities and stockholders? equity,total,shift_right,flagged,balance_equation
+AMCOR_2020_10K,49,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+AMCOR_2020_10K,49,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+AMCOR_2020_10K,49,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total shareholders' equity,total,drop_row,lost_but_reported,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total shareholders' equity,total,shift_right,flagged,liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities and shareholders' equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+AMCOR_2020_10K,49,balance_sheet,Total liabilities and shareholders' equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+AMCOR_2023_10K,51,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+AMCOR_2023_10K,51,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total shareholders' equity,total,drop_row,lost_but_reported,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total shareholders' equity,total,shift_right,flagged,liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities and shareholders' equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+AMCOR_2023_10K,51,balance_sheet,Total liabilities and shareholders' equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+AMCOR_2023_10K,49,income_statement,Net sales,component,drop_row,lost_but_reported,gross_profit
+AMCOR_2023_10K,49,income_statement,Net sales,component,shift_right,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Cost of sales,component,drop_row,lost_but_reported,gross_profit
+AMCOR_2023_10K,49,income_statement,Cost of sales,component,shift_right,flagged,gross_profit
+AMCOR_2023_10K,49,income_statement,Gross profit,total,drop_row,check_lost,gross_profit
+AMCOR_2023_10K,49,income_statement,Gross profit,total,shift_right,flagged,gross_profit
+AMD_2015_10K,55,income_statement,Net revenue,component,drop_row,lost_but_reported,gross_profit
+AMD_2015_10K,55,income_statement,Net revenue,component,shift_right,flagged,gross_profit
+AMD_2015_10K,55,income_statement,Cost of sales,component,drop_row,lost_but_reported,gross_profit
+AMD_2015_10K,55,income_statement,Cost of sales,component,shift_right,flagged,gross_profit
+AMD_2015_10K,55,income_statement,Gross margin,total,drop_row,check_lost,gross_profit
+AMD_2015_10K,55,income_statement,Gross margin,total,shift_right,flagged,gross_profit
+AMD_2022_10K,55,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+AMD_2022_10K,55,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+AMD_2022_10K,55,balance_sheet,Total liabilities and stockholders? equity,total,drop_row,lost_but_reported,balance_equation
+AMD_2022_10K,55,balance_sheet,Total liabilities and stockholders? equity,total,shift_right,flagged,balance_equation
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total shareholders? equity,total,drop_row,lost_but_reported,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total shareholders? equity,total,shift_right,flagged,liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities and shareholders? equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+AMERICANEXPRESS_2022_10K,97,balance_sheet,Total liabilities and shareholders? equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+BESTBUY_2017_10K,55,income_statement,Revenue,component,drop_row,lost_but_reported,gross_profit
+BESTBUY_2017_10K,55,income_statement,Revenue,component,shift_right,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Cost of goods sold,component,drop_row,lost_but_reported,gross_profit
+BESTBUY_2017_10K,55,income_statement,Cost of goods sold,component,shift_right,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Restructuring charges ? cost of goods sold,component,drop_row,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Restructuring charges ? cost of goods sold,component,shift_right,flagged,gross_profit
+BESTBUY_2017_10K,55,income_statement,Gross profit,total,drop_row,check_lost,gross_profit
+BESTBUY_2017_10K,55,income_statement,Gross profit,total,shift_right,flagged,gross_profit
+BESTBUY_2019_10K,51,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+BESTBUY_2019_10K,51,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+BESTBUY_2019_10K,51,balance_sheet,Total liabilities and equity,total,drop_row,lost_but_reported,balance_equation
+BESTBUY_2019_10K,51,balance_sheet,Total liabilities and equity,total,shift_right,flagged,balance_equation
+BESTBUY_2023_10K,39,income_statement,Revenue,component,drop_row,lost_but_reported,gross_profit
+BESTBUY_2023_10K,39,income_statement,Revenue,component,shift_right,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Cost of sales,component,drop_row,lost_but_reported,gross_profit
+BESTBUY_2023_10K,39,income_statement,Cost of sales,component,shift_right,flagged,gross_profit
+BESTBUY_2023_10K,39,income_statement,Gross profit,total,drop_row,check_lost,gross_profit
+BESTBUY_2023_10K,39,income_statement,Gross profit,total,shift_right,flagged,gross_profit
+BLOCK_2016_10K,67,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+BLOCK_2016_10K,67,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+BLOCK_2016_10K,67,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total stockholders? equity,total,drop_row,lost_but_reported,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total stockholders? equity,total,shift_right,flagged,liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities and stockholders? equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+BLOCK_2016_10K,67,balance_sheet,Total liabilities and stockholders? equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+BLOCK_2020_10K,85,income_statement,Total net revenue,component,drop_row,lost_but_reported,gross_profit
+BLOCK_2020_10K,85,income_statement,Total net revenue,component,shift_right,flagged,gross_profit
+BLOCK_2020_10K,85,income_statement,Total cost of revenue,component,drop_row,lost_but_reported,gross_profit
+BLOCK_2020_10K,85,income_statement,Total cost of revenue,component,shift_right,flagged,gross_profit
+BLOCK_2020_10K,85,income_statement,Gross profit,total,drop_row,check_lost,gross_profit
+BLOCK_2020_10K,85,income_statement,Gross profit,total,shift_right,flagged,gross_profit
+BOEING_2018_10K,51,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+BOEING_2018_10K,51,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+BOEING_2018_10K,51,balance_sheet,Total liabilities and equity,total,drop_row,lost_but_reported,balance_equation
+BOEING_2018_10K,51,balance_sheet,Total liabilities and equity,total,shift_right,flagged,balance_equation
+COCACOLA_2017_10K,73,income_statement,NET OPERATING REVENUES,component,drop_row,lost_but_reported,gross_profit
+COCACOLA_2017_10K,73,income_statement,NET OPERATING REVENUES,component,shift_right,flagged,gross_profit
+COCACOLA_2017_10K,73,income_statement,Cost of goods sold,component,drop_row,lost_but_reported,gross_profit
+COCACOLA_2017_10K,73,income_statement,Cost of goods sold,component,shift_right,flagged,gross_profit
+COCACOLA_2017_10K,73,income_statement,GROSS PROFIT,total,drop_row,check_lost,gross_profit
+COCACOLA_2017_10K,73,income_statement,GROSS PROFIT,total,shift_right,flagged,gross_profit
+COCACOLA_2017_10K,75,balance_sheet,TOTAL ASSETS,total,drop_row,lost_but_reported,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL ASSETS,total,shift_right,flagged,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,drop_row,lost_but_reported,balance_equation
+COCACOLA_2017_10K,75,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,shift_right,flagged,balance_equation
+COCACOLA_2021_10K,61,income_statement,Net Operating Revenues,component,drop_row,lost_but_reported,gross_profit
+COCACOLA_2021_10K,61,income_statement,Net Operating Revenues,component,shift_right,flagged,gross_profit
+COCACOLA_2021_10K,61,income_statement,Cost of goods sold,component,drop_row,lost_but_reported,gross_profit
+COCACOLA_2021_10K,61,income_statement,Cost of goods sold,component,shift_right,flagged,gross_profit
+COCACOLA_2021_10K,61,income_statement,Gross Profit,total,drop_row,check_lost,gross_profit
+COCACOLA_2021_10K,61,income_statement,Gross Profit,total,shift_right,flagged,gross_profit
+COCACOLA_2022_10K,62,income_statement,Net Operating Revenues,component,drop_row,lost_but_reported,gross_profit
+COCACOLA_2022_10K,62,income_statement,Net Operating Revenues,component,shift_right,flagged,gross_profit
+COCACOLA_2022_10K,62,income_statement,Cost of goods sold,component,drop_row,lost_but_reported,gross_profit
+COCACOLA_2022_10K,62,income_statement,Cost of goods sold,component,shift_right,flagged,gross_profit
+COCACOLA_2022_10K,62,income_statement,Gross Profit,total,drop_row,check_lost,gross_profit
+COCACOLA_2022_10K,62,income_statement,Gross Profit,total,shift_right,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Net sales,component,drop_row,lost_but_reported,gross_profit
+CORNING_2020_10K,69,income_statement,Net sales,component,shift_right,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Cost of sales,component,drop_row,lost_but_reported,gross_profit
+CORNING_2020_10K,69,income_statement,Cost of sales,component,shift_right,flagged,gross_profit
+CORNING_2020_10K,69,income_statement,Gross margin,total,drop_row,check_lost,gross_profit
+CORNING_2020_10K,69,income_statement,Gross margin,total,shift_right,flagged,gross_profit
+CORNING_2020_10K,71,balance_sheet,Total Assets,total,drop_row,lost_but_reported,balance_equation
+CORNING_2020_10K,71,balance_sheet,Total Assets,total,shift_right,flagged,balance_equation
+CORNING_2020_10K,71,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total equity,total,drop_row,lost_but_reported,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total equity,total,shift_right,flagged,liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total Liabilities and Equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+CORNING_2020_10K,71,balance_sheet,Total Liabilities and Equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+CORNING_2021_10K,64,income_statement,Net sales,component,drop_row,lost_but_reported,gross_profit
+CORNING_2021_10K,64,income_statement,Net sales,component,shift_right,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Cost of sales,component,drop_row,lost_but_reported,gross_profit
+CORNING_2021_10K,64,income_statement,Cost of sales,component,shift_right,flagged,gross_profit
+CORNING_2021_10K,64,income_statement,Gross margin,total,drop_row,check_lost,gross_profit
+CORNING_2021_10K,64,income_statement,Gross margin,total,shift_right,flagged,gross_profit
+CORNING_2022_10K,59,balance_sheet,Total Assets,total,drop_row,lost_but_reported,balance_equation
+CORNING_2022_10K,59,balance_sheet,Total Assets,total,shift_right,flagged,balance_equation
+CORNING_2022_10K,59,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total equity,total,drop_row,lost_but_reported,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total equity,total,shift_right,flagged,liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total Liabilities and Equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+CORNING_2022_10K,59,balance_sheet,Total Liabilities and Equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL ASSETS,total,drop_row,lost_but_reported,balance_equation
+COSTCO_2021_10K,37,balance_sheet,TOTAL ASSETS,total,shift_right,flagged,balance_equation
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES,total,drop_row,lost_but_reported,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES,total,shift_right,flagged,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL EQUITY,total,drop_row,lost_but_reported,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL EQUITY,total,shift_right,flagged,liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+COSTCO_2021_10K,37,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+CVSHEALTH_2018_10K,303,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total shareholders? equity,total,drop_row,lost_but_reported,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total shareholders? equity,total,shift_right,flagged,liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities and shareholders? equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+CVSHEALTH_2018_10K,303,balance_sheet,Total liabilities and shareholders? equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+CVSHEALTH_2022_10K,109,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total shareholders? equity,total,drop_row,lost_but_reported,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total shareholders? equity,total,shift_right,flagged,liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities and shareholders? equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+CVSHEALTH_2022_10K,109,balance_sheet,Total liabilities and shareholders? equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+GENERALMILLS_2019_10K,54,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Redeemable interest,component,drop_row,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Redeemable interest,component,shift_right,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total equity,total,drop_row,no_visible_effect,
+GENERALMILLS_2019_10K,54,balance_sheet,Total equity,total,shift_right,flagged,liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities and equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+GENERALMILLS_2019_10K,54,balance_sheet,Total liabilities and equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+GENERALMILLS_2020_10K,49,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Redeemable interest,component,drop_row,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Redeemable interest,component,shift_right,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total equity,total,drop_row,no_visible_effect,
+GENERALMILLS_2020_10K,49,balance_sheet,Total equity,total,shift_right,flagged,liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities and equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+GENERALMILLS_2020_10K,49,balance_sheet,Total liabilities and equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total shareholders? equity,total,drop_row,lost_but_reported,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total shareholders? equity,total,shift_right,flagged,liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities and shareholders? equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+JOHNSON_JOHNSON_2022_10K,45,balance_sheet,Total liabilities and shareholders? equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL ASSETS,total,drop_row,lost_but_reported,balance_equation
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL ASSETS,total,shift_right,flagged,balance_equation
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES,total,drop_row,lost_but_reported,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES,total,shift_right,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,Redeemable noncontrolling interest,component,drop_row,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,Redeemable noncontrolling interest,component,shift_right,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL EQUITY,total,drop_row,no_visible_effect,
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL EQUITY,total,shift_right,flagged,liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+KRAFTHEINZ_2019_10K,51,balance_sheet,TOTAL LIABILITIES AND EQUITY,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,66,income_statement,Total net sales,component,drop_row,lost_but_reported,gross_profit
+LOCKHEEDMARTIN_2020_10K,66,income_statement,Total net sales,component,shift_right,flagged,gross_profit
+LOCKHEEDMARTIN_2020_10K,66,income_statement,Total cost of sales,component,drop_row,lost_but_reported,gross_profit
+LOCKHEEDMARTIN_2020_10K,66,income_statement,Total cost of sales,component,shift_right,flagged,gross_profit
+LOCKHEEDMARTIN_2020_10K,66,income_statement,Gross profit,total,drop_row,check_lost,gross_profit
+LOCKHEEDMARTIN_2020_10K,66,income_statement,Gross profit,total,shift_right,flagged,gross_profit
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total equity,total,drop_row,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total equity,total,shift_right,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities and equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2020_10K,68,balance_sheet,Total liabilities and equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total equity,total,drop_row,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total equity,total,shift_right,flagged,liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities and equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2021_10K,67,balance_sheet,Total liabilities and equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+LOCKHEEDMARTIN_2022_10K,62,income_statement,Total net sales,component,drop_row,lost_but_reported,gross_profit
+LOCKHEEDMARTIN_2022_10K,62,income_statement,Total net sales,component,shift_right,flagged,gross_profit
+LOCKHEEDMARTIN_2022_10K,62,income_statement,Total cost of sales,component,drop_row,lost_but_reported,gross_profit
+LOCKHEEDMARTIN_2022_10K,62,income_statement,Total cost of sales,component,shift_right,flagged,gross_profit
+LOCKHEEDMARTIN_2022_10K,62,income_statement,Gross profit,total,drop_row,check_lost,gross_profit
+LOCKHEEDMARTIN_2022_10K,62,income_statement,Gross profit,total,shift_right,flagged,gross_profit
+MICROSOFT_2016_10K,51,income_statement,Total revenue,component,drop_row,lost_but_reported,gross_profit
+MICROSOFT_2016_10K,51,income_statement,Total revenue,component,shift_right,flagged,gross_profit
+MICROSOFT_2016_10K,51,income_statement,Total cost of revenue,component,drop_row,lost_but_reported,gross_profit
+MICROSOFT_2016_10K,51,income_statement,Total cost of revenue,component,shift_right,flagged,gross_profit
+MICROSOFT_2016_10K,51,income_statement,Gross margin,total,drop_row,check_lost,gross_profit
+MICROSOFT_2016_10K,51,income_statement,Gross margin,total,shift_right,flagged,gross_profit
+MICROSOFT_2023_10K,59,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+MICROSOFT_2023_10K,59,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total stockholders? equity,total,drop_row,lost_but_reported,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total stockholders? equity,total,shift_right,flagged,liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities and stockholders? equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+MICROSOFT_2023_10K,59,balance_sheet,Total liabilities and stockholders? equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+NETFLIX_2017_10K,44,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total stockholders? equity,total,drop_row,lost_but_reported,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total stockholders? equity,total,shift_right,flagged,liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities and stockholders? equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+NETFLIX_2017_10K,44,balance_sheet,Total liabilities and stockholders? equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+NIKE_2018_10K,45,income_statement,Revenues,component,drop_row,lost_but_reported,gross_profit
+NIKE_2018_10K,45,income_statement,Revenues,component,shift_right,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Cost of sales,component,drop_row,lost_but_reported,gross_profit
+NIKE_2018_10K,45,income_statement,Cost of sales,component,shift_right,flagged,gross_profit
+NIKE_2018_10K,45,income_statement,Gross profit,total,drop_row,check_lost,gross_profit
+NIKE_2018_10K,45,income_statement,Gross profit,total,shift_right,flagged,gross_profit
+NIKE_2019_10K,53,balance_sheet,TOTAL ASSETS,total,drop_row,lost_but_reported,balance_equation
+NIKE_2019_10K,53,balance_sheet,TOTAL ASSETS,total,shift_right,flagged,balance_equation
+NIKE_2019_10K,53,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,drop_row,lost_but_reported,balance_equation
+NIKE_2019_10K,53,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,shift_right,flagged,balance_equation
+NIKE_2021_10K,58,income_statement,Revenues,component,drop_row,lost_but_reported,gross_profit
+NIKE_2021_10K,58,income_statement,Revenues,component,shift_right,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Cost of sales,component,drop_row,lost_but_reported,gross_profit
+NIKE_2021_10K,58,income_statement,Cost of sales,component,shift_right,flagged,gross_profit
+NIKE_2021_10K,58,income_statement,Gross profit,total,drop_row,check_lost,gross_profit
+NIKE_2021_10K,58,income_statement,Gross profit,total,shift_right,flagged,gross_profit
+NIKE_2021_10K,60,balance_sheet,TOTAL ASSETS,total,drop_row,lost_but_reported,balance_equation
+NIKE_2021_10K,60,balance_sheet,TOTAL ASSETS,total,shift_right,flagged,balance_equation
+NIKE_2021_10K,60,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,drop_row,lost_but_reported,balance_equation
+NIKE_2021_10K,60,balance_sheet,TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY,total,shift_right,flagged,balance_equation
+PAYPAL_2022_10K,60,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+PAYPAL_2022_10K,60,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total equity,total,drop_row,lost_but_reported,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total equity,total,shift_right,flagged,liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities and equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+PAYPAL_2022_10K,60,balance_sheet,Total liabilities and equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+PEPSICO_2022_10K,61,income_statement,Net Revenue,component,drop_row,lost_but_reported,gross_profit
+PEPSICO_2022_10K,61,income_statement,Net Revenue,component,shift_right,flagged,gross_profit
+PEPSICO_2022_10K,61,income_statement,Cost of sales,component,drop_row,lost_but_reported,gross_profit
+PEPSICO_2022_10K,61,income_statement,Cost of sales,component,shift_right,flagged,gross_profit
+PEPSICO_2022_10K,61,income_statement,Gross profit,total,drop_row,check_lost,gross_profit
+PEPSICO_2022_10K,61,income_statement,Gross profit,total,shift_right,flagged,gross_profit
+PFIZER_2021_10K,58,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+PFIZER_2021_10K,58,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+PFIZER_2021_10K,58,balance_sheet,Total liabilities,total,drop_row,lost_but_reported,liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities,total,shift_right,flagged,liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total equity,total,drop_row,lost_but_reported,liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total equity,total,shift_right,flagged,liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities and equity,total,drop_row,lost_but_reported,balance_equation;liabilities_plus_equity
+PFIZER_2021_10K,58,balance_sheet,Total liabilities and equity,total,shift_right,flagged,balance_equation;liabilities_plus_equity
+VERIZON_2022_10K,55,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+VERIZON_2022_10K,55,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+VERIZON_2022_10K,55,balance_sheet,Total liabilities and equity,total,drop_row,lost_but_reported,balance_equation
+VERIZON_2022_10K,55,balance_sheet,Total liabilities and equity,total,shift_right,flagged,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total assets,total,drop_row,lost_but_reported,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total assets,total,shift_right,flagged,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total liabilities and equity,total,drop_row,lost_but_reported,balance_equation
+WALMART_2018_10K,58,balance_sheet,Total liabilities and equity,total,shift_right,flagged,balance_equation
